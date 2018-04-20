@@ -183,6 +183,14 @@ class Status < ApplicationRecord
       where(account: [account] + account.following).where(visibility: [:public, :unlisted, :private])
     end
 
+    def as_direct_timeline(account)
+      query = joins("LEFT OUTER JOIN mentions ON statuses.id = mentions.status_id AND mentions.account_id = #{account.id}")
+              .where("mentions.account_id = #{account.id} OR statuses.account_id = #{account.id}")
+              .where(visibility: [:direct])
+
+      apply_timeline_filters(query, account, false)
+    end
+
     def as_public_timeline(account = nil, local_only = false)
       query = timeline_scope(local_only).without_replies
 
@@ -322,7 +330,7 @@ class Status < ApplicationRecord
       self.in_reply_to_account_id = carried_over_reply_to_account_id
       self.conversation_id        = thread.conversation_id if conversation_id.nil?
     elsif conversation_id.nil?
-      create_conversation
+      self.conversation = Conversation.new
     end
   end
 
