@@ -58,3 +58,5 @@ yarn-debug.log
 # Ignore Docker option files
 docker-compose.override.yml
 
+# Ignore mspsocial.net-specific files
+letsencrypt.log
