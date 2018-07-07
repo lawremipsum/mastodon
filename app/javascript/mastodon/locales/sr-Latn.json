@@ -114,6 +114,7 @@
   "empty_column.public": "Ovde nema ničega! Napišite nešto javno, ili nađite korisnike sa drugih instanci koje ćete zapratiti da popunite ovu prazninu",
   "follow_request.authorize": "Odobri",
   "follow_request.reject": "Odbij",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodont je softver otvorenog koda. Možete mu doprineti ili prijaviti probleme preko GitHub-a na {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Da počnete",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodont je softver otvorenog koda. Možete mu doprineti ili prijaviti probleme preko GitHub-a na {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Napredno",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Osnovno",
   "home.column_settings.show_reblogs": "Prikaži i podržavanja",
   "home.column_settings.show_replies": "Prikaži odgovore",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lokalno",
   "tabs_bar.notifications": "Obaveštenja",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Ako napustite Mastodont, izgubićete napisani nacrt.",
   "upload_area.title": "Prevucite ovde da otpremite",

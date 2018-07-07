@@ -114,6 +114,7 @@
   "empty_column.public": "Tukaj ni ničesar! Da ga napolnite, napišite nekaj javnega ali pa ročno sledite uporabnikom iz drugih vozlišč",
   "follow_request.authorize": "Odobri",
   "follow_request.reject": "Zavrni",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon je odprtokodna programska oprema. V GitHubu na {github} lahko prispevate ali poročate o napakah.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Prvi koraki",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon je odprtokodna programska oprema. V GitHubu na {github} lahko prispevate ali poročate o napakah.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Napredno",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Osnovno",
   "home.column_settings.show_reblogs": "Pokaži sunke",
   "home.column_settings.show_replies": "Pokaži odgovore",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lokalno",
   "tabs_bar.notifications": "Obvestila",
   "tabs_bar.search": "Poišči",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Vaš osnutek bo izgubljen, če zapustite Mastodona.",
   "upload_area.title": "Povlecite in spustite za pošiljanje",

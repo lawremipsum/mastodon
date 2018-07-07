@@ -114,6 +114,7 @@
   "empty_column.public": "Здесь ничего нет! Опубликуйте что-нибудь или подпишитесь на пользователей с других узлов, чтобы заполнить ленту.",
   "follow_request.authorize": "Авторизовать",
   "follow_request.reject": "Отказать",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon - программа с открытым исходным кодом. Вы можете помочь проекту или сообщить о проблемах на GitHub по адресу {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Добро пожаловать",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon - программа с открытым исходным кодом. Вы можете помочь проекту или сообщить о проблемах на GitHub по адресу {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Дополнительные",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Основные",
   "home.column_settings.show_reblogs": "Показывать продвижения",
   "home.column_settings.show_replies": "Показывать ответы",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Локальная",
   "tabs_bar.notifications": "Уведомления",
   "tabs_bar.search": "Поиск",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Ваш черновик будет утерян, если вы покинете Mastodon.",
   "upload_area.title": "Перетащите сюда, чтобы загрузить",

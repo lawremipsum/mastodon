@@ -114,6 +114,7 @@
   "empty_column.public": "Ovdje nema ništa! Napiši nešto javno, ili ručno slijedi korisnike sa drugih instanci kako bi popunio",
   "follow_request.authorize": "Autoriziraj",
   "follow_request.reject": "Odbij",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon je softver otvorenog koda. Možeš pridonijeti ili prijaviti probleme na GitHubu  {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Počnimo",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon je softver otvorenog koda. Možeš pridonijeti ili prijaviti probleme na GitHubu  {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Napredno",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Osnovno",
   "home.column_settings.show_reblogs": "Pokaži boostove",
   "home.column_settings.show_replies": "Pokaži odgovore",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lokalno",
   "tabs_bar.notifications": "Notifikacije",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Your draft will be lost if you leave Mastodon.",
   "upload_area.title": "Povuci i spusti kako bi uploadao",

@@ -646,8 +646,14 @@
   {
     "descriptors": [
       {
+<<<<<<< Updated upstream
         "defaultMessage": "Local timeline",
         "id": "column.community"
+=======
+<<<<<<< HEAD
+        "defaultMessage": "Toots",
+        "id": "timeline.posts"
+>>>>>>> Stashed changes
       },
       {
         "defaultMessage": "The local timeline is empty. Write something publicly to get the ball rolling!",
@@ -659,12 +665,62 @@
   {
     "descriptors": [
       {
+<<<<<<< Updated upstream
+        "defaultMessage": "Edit profile",
+        "id": "account.edit_profile"
+=======
+        "defaultMessage": "Local timeline",
+        "id": "column.community"
+=======
+        "defaultMessage": "Local timeline",
+        "id": "column.community"
+>>>>>>> Stashed changes
+      },
+      {
+        "defaultMessage": "Pinned toots",
+        "id": "navigation_bar.pins"
+      },
+      {
+        "defaultMessage": "Preferences",
+        "id": "navigation_bar.preferences"
+      },
+      {
+        "defaultMessage": "Follow requests",
+        "id": "navigation_bar.follow_requests"
+      },
+      {
+        "defaultMessage": "Favourites",
+        "id": "navigation_bar.favourites"
+      },
+      {
+        "defaultMessage": "Lists",
+        "id": "navigation_bar.lists"
+      },
+      {
+        "defaultMessage": "Blocked users",
+        "id": "navigation_bar.blocks"
+      },
+      {
+        "defaultMessage": "Hidden domains",
+        "id": "navigation_bar.domain_blocks"
+      },
+      {
+        "defaultMessage": "Muted users",
+        "id": "navigation_bar.mutes"
+      }
+    ],
+    "path": "app/javascript/mastodon/features/compose/components/action_bar.json"
+  },
+  {
+    "descriptors": [
+      {
         "defaultMessage": "Edit profile",
         "id": "account.edit_profile"
       },
       {
         "defaultMessage": "Pinned toots",
         "id": "navigation_bar.pins"
+>>>>>>> upstream/master
       },
       {
         "defaultMessage": "Preferences",
@@ -1143,6 +1199,11 @@
         "id": "getting_started.heading"
       },
       {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         "defaultMessage": "Find friends from Twitter",
         "id": "getting_started.find_friends"
       },
@@ -1151,10 +1212,25 @@
         "id": "getting_started.invite"
       },
       {
+<<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
         "defaultMessage": "Hotkeys",
         "id": "navigation_bar.keyboard_shortcuts"
       },
       {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+        "defaultMessage": "About this instance",
+        "id": "navigation_bar.info"
+      },
+      {
+        "defaultMessage": "Terms of service",
+        "id": "getting_started.terms"
+=======
+>>>>>>> Stashed changes
         "defaultMessage": "Security",
         "id": "getting_started.security"
       },
@@ -1169,6 +1245,10 @@
       {
         "defaultMessage": "Developers",
         "id": "getting_started.developers"
+<<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
       },
       {
         "defaultMessage": "Documentation",

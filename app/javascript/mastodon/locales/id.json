@@ -114,6 +114,7 @@
   "empty_column.public": "Tidak ada apapun disini! Tulis sesuatu, atau ikuti pengguna lain dari server lain untuk mengisi ini",
   "follow_request.authorize": "Izinkan",
   "follow_request.reject": "Tolak",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon adalah perangkat lunak yang bersifat terbuka. Anda dapat berkontribusi atau melaporkan permasalahan/bug di Github {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Mulai",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon adalah perangkat lunak yang bersifat terbuka. Anda dapat berkontribusi atau melaporkan permasalahan/bug di Github {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Tingkat Lanjut",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Dasar",
   "home.column_settings.show_reblogs": "Tampilkan boost",
   "home.column_settings.show_replies": "Tampilkan balasan",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lokal",
   "tabs_bar.notifications": "Notifikasi",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Naskah anda akan hilang jika anda keluar dari Mastodon.",
   "upload_area.title": "Seret & lepaskan untuk mengunggah",

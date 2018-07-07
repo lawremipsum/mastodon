@@ -114,6 +114,7 @@
   "empty_column.public": "Esas nulo hike! Skribez ulo publike, o manuale sequez uzeri de altra instaluri por plenigar ol.",
   "follow_request.authorize": "Yurizar",
   "follow_request.reject": "Refuzar",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon esas programaro kun apertita kodexo. Tu povas kontributar o signalar problemi en GitHub ye {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Debuto",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon esas programaro kun apertita kodexo. Tu povas kontributar o signalar problemi en GitHub ye {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Komplexa",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Simpla",
   "home.column_settings.show_reblogs": "Montrar repeti",
   "home.column_settings.show_replies": "Montrar respondi",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lokala",
   "tabs_bar.notifications": "Savigi",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Your draft will be lost if you leave Mastodon.",
   "upload_area.title": "Tranar faligar por kargar",

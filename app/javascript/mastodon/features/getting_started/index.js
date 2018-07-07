@@ -79,7 +79,15 @@ export default class GettingStarted extends ImmutablePureComponent {
 
     const navItems = [];
     let i = 1;
+<<<<<<< Updated upstream
     let height = (multiColumn) ? 0 : 60;
+=======
+<<<<<<< HEAD
+    let height = 0;
+=======
+    let height = (multiColumn) ? 0 : 60;
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
 
     if (multiColumn) {
       navItems.push(
@@ -95,7 +103,15 @@ export default class GettingStarted extends ImmutablePureComponent {
     navItems.push(
       <ColumnLink key={i++} icon='envelope' text={intl.formatMessage(messages.direct)} to='/timelines/direct' />,
       <ColumnLink key={i++} icon='star' text={intl.formatMessage(messages.favourites)} to='/favourites' />,
+<<<<<<< Updated upstream
       <ColumnLink key={i++} icon='list-ul' text={intl.formatMessage(messages.lists)} to='/lists' />
+=======
+<<<<<<< HEAD
+      <ColumnLink key={i++} icon='bars' text={intl.formatMessage(messages.lists)} to='/lists' />
+=======
+      <ColumnLink key={i++} icon='list-ul' text={intl.formatMessage(messages.lists)} to='/lists' />
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
     );
 
     height += 48*3;
@@ -109,9 +125,22 @@ export default class GettingStarted extends ImmutablePureComponent {
       navItems.push(
         <ColumnSubheading key={i++} text={intl.formatMessage(messages.settings_subheading)} />,
         <ColumnLink key={i++} icon='gears' text={intl.formatMessage(messages.preferences)} href='/settings/preferences' />,
+<<<<<<< Updated upstream
       );
 
       height += 34 + 48;
+=======
+<<<<<<< HEAD
+        <ColumnLink key={i++} icon='lock' text={intl.formatMessage(messages.security)} href='/auth/edit' />
+      );
+
+      height += 34 + 48*2;
+=======
+      );
+
+      height += 34 + 48;
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
     }
 
     return (
@@ -134,6 +163,14 @@ export default class GettingStarted extends ImmutablePureComponent {
 
         <div className='getting-started getting-started__footer'>
           <ul>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+            {multiColumn && <li><Link to='/keyboard-shortcuts'><FormattedMessage id='navigation_bar.keyboard_shortcuts' defaultMessage='Hotkeys' /></Link> · </li>}
+            <li><a href='/about/more' target='_blank'><FormattedMessage id='navigation_bar.info' defaultMessage='About this instance' /></a> · </li>
+            <li><a href='/terms' target='_blank'><FormattedMessage id='getting_started.terms' defaultMessage='Terms of service' /></a> · </li>
+=======
+>>>>>>> Stashed changes
             <li><a href='https://bridge.joinmastodon.org/' target='_blank'><FormattedMessage id='getting_started.find_friends' defaultMessage='Find friends from Twitter' /></a> · </li>
             {invitesEnabled && <li><a href='/invites' target='_blank'><FormattedMessage id='getting_started.invite' defaultMessage='Invite people' /></a> · </li>}
             {multiColumn && <li><Link to='/keyboard-shortcuts'><FormattedMessage id='navigation_bar.keyboard_shortcuts' defaultMessage='Hotkeys' /></Link> · </li>}
@@ -141,6 +178,10 @@ export default class GettingStarted extends ImmutablePureComponent {
             <li><a href='/about/more' target='_blank'><FormattedMessage id='navigation_bar.info' defaultMessage='About this instance' /></a> · </li>
             <li><a href='/terms' target='_blank'><FormattedMessage id='getting_started.terms' defaultMessage='Terms of service' /></a> · </li>
             <li><a href='/settings/applications' target='_blank'><FormattedMessage id='getting_started.developers' defaultMessage='Developers' /></a> · </li>
+<<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
             <li><a href='https://github.com/tootsuite/documentation#documentation' target='_blank'><FormattedMessage id='getting_started.documentation' defaultMessage='Documentation' /></a> · </li>
             <li><a href='/auth/sign_out' data-method='delete'><FormattedMessage id='navigation_bar.logout' defaultMessage='Logout' /></a></li>
           </ul>

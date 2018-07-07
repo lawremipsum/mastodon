@@ -114,6 +114,7 @@
   "empty_column.public": "Det er ingenting her! Skriv noe offentlig, eller følg brukere manuelt fra andre instanser for å fylle den opp",
   "follow_request.authorize": "Autorisér",
   "follow_request.reject": "Avvis",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon er fri programvare. Du kan bidra eller rapportere problemer på GitHub på {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Kom i gang",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon er fri programvare. Du kan bidra eller rapportere problemer på GitHub på {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Avansert",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Enkel",
   "home.column_settings.show_reblogs": "Vis fremhevinger",
   "home.column_settings.show_replies": "Vis svar",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lokal",
   "tabs_bar.notifications": "Varslinger",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Din kladd vil bli forkastet om du forlater Mastodon.",
   "upload_area.title": "Dra og slipp for å laste opp",

@@ -58,7 +58,15 @@ const makeMapStateToProps = () => {
   const getStatus = makeGetStatus();
 
   const mapStateToProps = (state, props) => {
+<<<<<<< Updated upstream
     const status = getStatus(state, { id: props.params.statusId });
+=======
+<<<<<<< HEAD
+    const status = getStatus(state, props.params.statusId);
+=======
+    const status = getStatus(state, { id: props.params.statusId });
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
     let ancestorsIds = Immutable.List();
     let descendantsIds = Immutable.List();
 

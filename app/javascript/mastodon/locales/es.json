@@ -114,6 +114,7 @@
   "empty_column.public": "¡No hay nada aquí! Escribe algo públicamente, o sigue usuarios de otras instancias manualmente para llenarlo",
   "follow_request.authorize": "Autorizar",
   "follow_request.reject": "Rechazar",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon es software libre. Puedes contribuir o reportar errores en {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Primeros pasos",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon es software libre. Puedes contribuir o reportar errores en {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Avanzado",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Básico",
   "home.column_settings.show_reblogs": "Mostrar retoots",
   "home.column_settings.show_replies": "Mostrar respuestas",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Notificaciones",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Tu borrador se perderá si sales de Mastodon.",
   "upload_area.title": "Arrastra y suelta para subir",

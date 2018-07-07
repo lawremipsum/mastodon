@@ -114,6 +114,7 @@
   "empty_column.public": "Burada hiçbir gönderi yok! Herkese açık bir şeyler yazın, veya diğer sunucudaki insanları takip ederek bu alanın dolmasını sağlayın",
   "follow_request.authorize": "Yetkilendir",
   "follow_request.reject": "Reddet",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon açık kaynaklı bir yazılımdır. Github {github}. {apps} üzerinden katkıda bulunabilir, hata raporlayabilirsiniz.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Başlangıç",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon açık kaynaklı bir yazılımdır. Github {github}. {apps} üzerinden katkıda bulunabilir, hata raporlayabilirsiniz.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Gelişmiş",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Temel",
   "home.column_settings.show_reblogs": "Boost edilenleri göster",
   "home.column_settings.show_replies": "Cevapları göster",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Yerel",
   "tabs_bar.notifications": "Bildirimler",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Your draft will be lost if you leave Mastodon.",
   "upload_area.title": "Upload için sürükle bırak yapınız",

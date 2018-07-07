@@ -114,6 +114,7 @@
   "empty_column.public": "אין פה כלום! כדי למלא את הטור הזה אפשר לכתוב משהו, או להתחיל לעקוב אחרי אנשים מקהילות אחרות",
   "follow_request.authorize": "קבלה",
   "follow_request.reject": "דחיה",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "מסטודון היא תוכנה חופשית (בקוד פתוח). ניתן לתרום או לדווח על בעיות בגיטהאב: {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "בואו נתחיל",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "מסטודון היא תוכנה חופשית (בקוד פתוח). ניתן לתרום או לדווח על בעיות בגיטהאב: {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "למתקדמים",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "למתחילים",
   "home.column_settings.show_reblogs": "הצגת הדהודים",
   "home.column_settings.show_replies": "הצגת תגובות",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "ציר זמן מקומי",
   "tabs_bar.notifications": "התראות",
   "tabs_bar.search": "Search",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "הטיוטא תאבד אם תעזבו את מסטודון.",
   "upload_area.title": "ניתן להעלות על ידי Drag & drop",

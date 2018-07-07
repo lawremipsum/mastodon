@@ -114,6 +114,7 @@
   "empty_column.public": "Ùn c'hè nunda quì! Scrivete qualcosa in pubblicu o seguitate utilizatori d'altre istanze per empie a linea pubblica",
   "follow_request.authorize": "Auturizà",
   "follow_request.reject": "Righjittà",
+<<<<<<< Updated upstream
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -122,6 +123,25 @@
   "getting_started.open_source_notice": "Mastodon ghjè un lugiziale liberu. Pudete cuntribuisce à u codice o a traduzione, o palisà un bug, nant'à GitHub: {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+=======
+<<<<<<< HEAD
+  "getting_started.documentation": "Documentation",
+=======
+  "getting_started.developers": "Developers",
+  "getting_started.documentation": "Documentation",
+  "getting_started.find_friends": "Find friends from Twitter",
+>>>>>>> upstream/master
+  "getting_started.heading": "Per principià",
+  "getting_started.invite": "Invite people",
+  "getting_started.open_source_notice": "Mastodon ghjè un lugiziale liberu. Pudete cuntribuisce à u codice o a traduzione, o palisà un bug, nant'à GitHub: {github}.",
+<<<<<<< HEAD
+  "getting_started.terms": "Terms of service",
+  "home.column_settings.advanced": "Avanzati",
+=======
+  "getting_started.security": "Security",
+  "getting_started.terms": "Terms of service",
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "home.column_settings.basic": "Bàsichi",
   "home.column_settings.show_reblogs": "Vede e spartere",
   "home.column_settings.show_replies": "Vede e risposte",
@@ -287,6 +307,14 @@
   "tabs_bar.local_timeline": "Lucale",
   "tabs_bar.notifications": "Nutificazione",
   "tabs_bar.search": "Cercà",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "timeline.media": "Media",
+  "timeline.posts": "Toots",
+=======
+>>>>>>> upstream/master
+>>>>>>> Stashed changes
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "A bruttacopia sarà persa s'ellu hè chjosu Mastodon.",
   "upload_area.title": "Drag & drop per caricà un fugliale",
