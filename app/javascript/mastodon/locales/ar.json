@@ -84,6 +84,7 @@
   "confirmations.domain_block.message": "متأكد من أنك تود حظر إسم النطاق {domain} بالكامل ؟ في غالب الأحيان يُستَحسَن كتم أو حظر بعض الحسابات بدلا من حظر نطاق بالكامل.\nلن تتمكن مِن رؤية محتوى هذا النطاق لا على خيوطك العمومية و لا في إشعاراتك. سوف يتم كذلك إزالة كافة متابعيك المنتمين إلى هذا النطاق.",
   "confirmations.mute.confirm": "أكتم",
   "confirmations.mute.message": "هل أنت متأكد أنك تريد كتم {name} ؟",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "confirmations.redraft.confirm": "إزالة و إعادة الصياغة",
   "confirmations.redraft.message": "هل أنت متأكد من أنك تريد حذف هذا المنشور و إعادة صياغته ؟ سوف تفقد جميع الردود و الترقيات و المفضلة المتصلة به.",
@@ -96,6 +97,10 @@
   "confirmations.redraft.message": "هل أنت متأكد من أنك تريد حذف هذا المنشور و إعادة صياغته ؟ سوف تفقد جميع الردود و الترقيات و المفضلة المتصلة به.",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "confirmations.redraft.confirm": "إزالة و إعادة الصياغة",
+  "confirmations.redraft.message": "هل أنت متأكد من أنك تريد حذف هذا المنشور و إعادة صياغته ؟ سوف تفقد جميع الردود و الترقيات و المفضلة المتصلة به.",
+>>>>>>> upstream/master
   "confirmations.unfollow.confirm": "إلغاء المتابعة",
   "confirmations.unfollow.message": "متأكد من أنك تريد إلغاء متابعة {name} ؟",
   "embed.instructions": "يمكنكم إدماج هذه الحالة على موقعكم الإلكتروني عن طريق نسخ الشفرة أدناه.",
@@ -124,7 +129,10 @@
   "empty_column.public": "لا يوجد أي شيء هنا ! قم بنشر شيء ما للعامة، أو إتبع مستخدمين آخرين في الخوادم المثيلة الأخرى لملء خيط المحادثات العام",
   "follow_request.authorize": "ترخيص",
   "follow_request.reject": "رفض",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "المُطوِّرون",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "البحث عن أصدقاء على تويتر",
@@ -133,6 +141,7 @@
   "getting_started.open_source_notice": "ماستدون برنامج مفتوح المصدر. يمكنك المساهمة، أو الإبلاغ عن تقارير الأخطاء، على جيت هب {github}.",
   "getting_started.security": "الأمان",
   "getting_started.terms": "شروط الخدمة",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -152,6 +161,8 @@
   "getting_started.terms": "شروط الخدمة",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "أساسية",
   "home.column_settings.show_reblogs": "عرض الترقيات",
   "home.column_settings.show_replies": "عرض الردود",
@@ -192,6 +203,7 @@
   "navigation_bar.blocks": "الحسابات المحجوبة",
   "navigation_bar.community_timeline": "الخيط العام المحلي",
   "navigation_bar.direct": "الرسائل المباشِرة",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.discover": "إكتشف",
 =======
@@ -201,6 +213,9 @@
   "navigation_bar.discover": "إكتشف",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.discover": "إكتشف",
+>>>>>>> upstream/master
   "navigation_bar.domain_blocks": "النطاقات المخفية",
   "navigation_bar.edit_profile": "تعديل الملف الشخصي",
   "navigation_bar.favourites": "المفضلة",
@@ -214,6 +229,7 @@
   "navigation_bar.pins": "التبويقات المثبتة",
   "navigation_bar.preferences": "التفضيلات",
   "navigation_bar.public_timeline": "الخيط العام الموحد",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.security": "الأمان",
 =======
@@ -223,6 +239,9 @@
   "navigation_bar.security": "الأمان",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.security": "الأمان",
+>>>>>>> upstream/master
   "notification.favourite": "{name} أعجب بمنشورك",
   "notification.follow": "{name} يتابعك",
   "notification.mention": "{name} ذكرك",
@@ -315,6 +334,7 @@
   "status.reblog": "رَقِّي",
   "status.reblog_private": "القيام بالترقية إلى الجمهور الأصلي",
   "status.reblogged_by": "{name} رقى",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "status.redraft": "إزالة و إعادة الصياغة",
 =======
@@ -324,6 +344,9 @@
   "status.redraft": "إزالة و إعادة الصياغة",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "status.redraft": "إزالة و إعادة الصياغة",
+>>>>>>> upstream/master
   "status.reply": "ردّ",
   "status.replyAll": "رُد على الخيط",
   "status.report": "إبلِغ عن @{name}",
@@ -341,6 +364,7 @@
   "tabs_bar.local_timeline": "المحلي",
   "tabs_bar.notifications": "الإخطارات",
   "tabs_bar.search": "البحث",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} آخرون {people}} يتحدثون",
 =======
@@ -352,6 +376,9 @@
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} آخرون {people}} يتحدثون",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} آخرون {people}} يتحدثون",
+>>>>>>> upstream/master
   "ui.beforeunload": "سوف تفقد مسودتك إن تركت ماستدون.",
   "upload_area.title": "إسحب ثم أفلت للرفع",
   "upload_button.label": "إضافة وسائط",

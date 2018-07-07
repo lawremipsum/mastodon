@@ -32,6 +32,7 @@ self.addEventListener('fetch', function(event) {
     const asyncCache = openWebCache();
 
     event.respondWith(asyncResponse.then(
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -39,15 +40,20 @@ self.addEventListener('fetch', function(event) {
         .then(() => response),
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
       response => {
         const clonedResponse = response.clone();
         asyncCache.then(cache => cache.put('/', clonedResponse)).catch();
         return response;
       },
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
       () => asyncCache.then(cache => cache.match('/'))));
   } else if (url.pathname === '/auth/sign_out') {
     const asyncResponse = fetch(event.request);
@@ -63,6 +69,7 @@ self.addEventListener('fetch', function(event) {
 
       return response;
     }));
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   } /* else if (storageFreeable && (ATTACHMENT_HOST ? url.host === ATTACHMENT_HOST : url.pathname.startsWith('/system/'))) {
 =======
@@ -72,6 +79,9 @@ self.addEventListener('fetch', function(event) {
   } /* else if (storageFreeable && (ATTACHMENT_HOST ? url.host === ATTACHMENT_HOST : url.pathname.startsWith('/system/'))) {
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  } /* else if (storageFreeable && (ATTACHMENT_HOST ? url.host === ATTACHMENT_HOST : url.pathname.startsWith('/system/'))) {
+>>>>>>> upstream/master
     event.respondWith(openSystemCache().then(cache => {
       return cache.match(event.request.url).then(cached => {
         if (cached === undefined) {

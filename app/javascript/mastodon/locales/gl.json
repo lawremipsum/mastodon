@@ -114,7 +114,10 @@
   "empty_column.public": "Nada por aquí! Escriba algo de xeito público, ou siga manualmente usuarias de outras instancias para ir enchéndoa",
   "follow_request.authorize": "Autorizar",
   "follow_request.reject": "Rexeitar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -123,6 +126,7 @@
   "getting_started.open_source_notice": "Mastodon é software de código aberto. Pode contribuír ou informar de fallos en GitHub en {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -142,6 +146,8 @@
   "getting_started.terms": "Terms of service",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Básico",
   "home.column_settings.show_reblogs": "Mostrar repeticións",
   "home.column_settings.show_replies": "Mostrar respostas",
@@ -307,6 +313,7 @@
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Notificacións",
   "tabs_bar.search": "Buscar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -315,6 +322,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "O borrador perderase se sae de Mastodon.",
   "upload_area.title": "Arrastre e solte para subir",

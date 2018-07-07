@@ -59,6 +59,7 @@
   "column_header.show_settings": "Visa inställningar",
   "column_header.unpin": "Ångra fäst",
   "column_subheading.settings": "Inställningar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "community.column_settings.media_only": "Enbart media",
   "compose_form.direct_message_warning": "Denna toot kommer endast att skickas nämnda nämnda användare.",
@@ -73,6 +74,11 @@
   "compose_form.direct_message_warning_learn_more": "Visa mer",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "community.column_settings.media_only": "Enbart media",
+  "compose_form.direct_message_warning": "Denna toot kommer endast att skickas nämnda nämnda användare.",
+  "compose_form.direct_message_warning_learn_more": "Visa mer",
+>>>>>>> upstream/master
   "compose_form.hashtag_warning": "Denna toot kommer inte att listas under någon hashtag eftersom den är onoterad. Endast offentliga toots kan sökas med hashtag.",
   "compose_form.lock_disclaimer": "Ditt konto är inte {locked}. Vemsomhelst kan följa dig och även se dina inlägg skrivna för endast dina följare.",
   "compose_form.lock_disclaimer.lock": "låst",
@@ -95,6 +101,7 @@
   "confirmations.domain_block.message": "Är du verkligen säker på att du vill blockera hela {domain}? I de flesta fall är några riktade blockeringar eller nedtystade konton tillräckligt och att föredra. Du kommer sluta se innehåll från {domain}-domänen i den allmänna tidslinjen och i dina egna notifieringar. Du kommer även sluta följa alla eventuella följare du har från {domain}.",
   "confirmations.mute.confirm": "Tysta",
   "confirmations.mute.message": "Är du säker du vill tysta ner {name}?",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "confirmations.redraft.confirm": "Radera och gör om",
   "confirmations.redraft.message": "Är du säker på att du vill radera meddelandet och göra om det? Du kommer förlora alla svar, knuffar och favoriter som hänvisar till meddelandet.",
@@ -107,6 +114,10 @@
   "confirmations.redraft.message": "Är du säker på att du vill radera meddelandet och göra om det? Du kommer förlora alla svar, knuffar och favoriter som hänvisar till meddelandet.",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "confirmations.redraft.confirm": "Radera och gör om",
+  "confirmations.redraft.message": "Är du säker på att du vill radera meddelandet och göra om det? Du kommer förlora alla svar, knuffar och favoriter som hänvisar till meddelandet.",
+>>>>>>> upstream/master
   "confirmations.unfollow.confirm": "Sluta följa",
   "confirmations.unfollow.message": "Är du säker på att du vill sluta följa {name}?",
   "embed.instructions": "Bädda in den här statusen på din webbplats genom att kopiera koden nedan.",
@@ -135,7 +146,10 @@
   "empty_column.public": "Det finns inget här! Skriv något offentligt, eller följ manuellt användarna från andra instanser för att fylla på det",
   "follow_request.authorize": "Godkänn",
   "follow_request.reject": "Avvisa",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Utvecklare",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Hitta vänner från Twitter",
@@ -144,6 +158,7 @@
   "getting_started.open_source_notice": "Mastodon är programvara med öppen källkod. Du kan bidra eller rapportera problem via GitHub på {github}.",
   "getting_started.security": "Säkerhet",
   "getting_started.terms": "Användarvillkor",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -163,6 +178,8 @@
   "getting_started.terms": "Användarvillkor",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Grundläggande",
   "home.column_settings.show_reblogs": "Visa knuffar",
   "home.column_settings.show_replies": "Visa svar",
@@ -203,6 +220,7 @@
   "navigation_bar.blocks": "Blockerade användare",
   "navigation_bar.community_timeline": "Lokal tidslinje",
   "navigation_bar.direct": "Direktmeddelanden",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.discover": "Upptäck",
 =======
@@ -212,6 +230,9 @@
   "navigation_bar.discover": "Upptäck",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.discover": "Upptäck",
+>>>>>>> upstream/master
   "navigation_bar.domain_blocks": "Dolda domäner",
   "navigation_bar.edit_profile": "Redigera profil",
   "navigation_bar.favourites": "Favoriter",
@@ -225,6 +246,7 @@
   "navigation_bar.pins": "Nålade inlägg (toots)",
   "navigation_bar.preferences": "Inställningar",
   "navigation_bar.public_timeline": "Förenad tidslinje",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.security": "Säkerhet",
 =======
@@ -234,6 +256,9 @@
   "navigation_bar.security": "Säkerhet",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.security": "Säkerhet",
+>>>>>>> upstream/master
   "notification.favourite": "{name} favoriserade din status",
   "notification.follow": "{name} följer dig",
   "notification.mention": "{name} nämnde dig",
@@ -326,6 +351,7 @@
   "status.reblog": "Knuff",
   "status.reblog_private": "Knuffa till de ursprungliga åhörarna",
   "status.reblogged_by": "{name} knuffade",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "status.redraft": "Radera & gör om",
 =======
@@ -335,6 +361,9 @@
   "status.redraft": "Radera & gör om",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "status.redraft": "Radera & gör om",
+>>>>>>> upstream/master
   "status.reply": "Svara",
   "status.replyAll": "Svara på tråden",
   "status.report": "Rapportera @{name}",
@@ -352,6 +381,7 @@
   "tabs_bar.local_timeline": "Lokal",
   "tabs_bar.notifications": "Meddelanden",
   "tabs_bar.search": "Sök",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "trends.count_by_accounts": "{count} {rawCount, plural, en {person} andra {people}} pratar",
 =======
@@ -363,6 +393,9 @@
   "trends.count_by_accounts": "{count} {rawCount, plural, en {person} andra {people}} pratar",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "trends.count_by_accounts": "{count} {rawCount, plural, en {person} andra {people}} pratar",
+>>>>>>> upstream/master
   "ui.beforeunload": "Ditt utkast kommer att förloras om du lämnar Mastodon.",
   "upload_area.title": "Dra & släpp för att ladda upp",
   "upload_button.label": "Lägg till media",

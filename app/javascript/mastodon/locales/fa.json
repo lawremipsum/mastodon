@@ -59,6 +59,7 @@
   "column_header.show_settings": "نمایش تنظیمات",
   "column_header.unpin": "رهاکردن",
   "column_subheading.settings": "تنظیمات",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "community.column_settings.media_only": "فقط عکس و ویدیو",
 =======
@@ -67,6 +68,9 @@
   "community.column_settings.media_only": "فقط عکس و ویدیو",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "community.column_settings.media_only": "فقط عکس و ویدیو",
+>>>>>>> upstream/master
   "compose_form.direct_message_warning": "این بوق تنها به کاربرانی که از آن‌ها نام برده شده فرستاده خواهد شد.",
   "compose_form.direct_message_warning_learn_more": "بیشتر بدانید",
   "compose_form.hashtag_warning": "از آن‌جا که این بوق فهرست‌نشده است، در نتایج جستجوی هشتگ‌ها پیدا نخواهد شد. تنها بوق‌های عمومی را می‌توان با جستجوی هشتگ پیدا کرد.",
@@ -121,7 +125,10 @@
   "empty_column.public": "این‌جا هنوز چیزی نیست! خودتان چیزی بنویسید یا کاربران دیگر را پی بگیرید تا این‌جا پر شود",
   "follow_request.authorize": "اجازه دهید",
   "follow_request.reject": "اجازه ندهید",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "برای برنامه‌نویسان",
   "getting_started.documentation": "راهنما",
   "getting_started.find_friends": "یافتن دوستان از توییتر",
@@ -129,6 +136,7 @@
   "getting_started.invite": "دعوت از دوستان",
   "getting_started.open_source_notice": "ماستدون یک نرم‌افزار آزاد است. می‌توانید در ساخت آن مشارکت کنید یا مشکلاتش را در {github} گزارش دهید.",
   "getting_started.security": "امنیت",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -153,6 +161,10 @@
   "home.column_settings.basic": "اصلی",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "getting_started.terms": "شرایط استفاده",
+  "home.column_settings.basic": "اصلی",
+>>>>>>> upstream/master
   "home.column_settings.show_reblogs": "نمایش بازبوق‌ها",
   "home.column_settings.show_replies": "نمایش پاسخ‌ها",
   "keyboard_shortcuts.back": "برای بازگشت",
@@ -202,6 +214,7 @@
   "navigation_bar.lists": "فهرست‌ها",
   "navigation_bar.logout": "خروج",
   "navigation_bar.mutes": "کاربران بی‌صداشده",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.personal": "شخصی",
 =======
@@ -211,6 +224,9 @@
   "navigation_bar.personal": "شخصی",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.personal": "شخصی",
+>>>>>>> upstream/master
   "navigation_bar.pins": "نوشته‌های ثابت",
   "navigation_bar.preferences": "ترجیحات",
   "navigation_bar.public_timeline": "نوشته‌های همه‌جا",
@@ -325,6 +341,7 @@
   "tabs_bar.local_timeline": "محلی",
   "tabs_bar.notifications": "اعلان‌ها",
   "tabs_bar.search": "جستجو",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -333,6 +350,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {نفر نوشته است} other {نفر نوشته‌اند}}",
   "ui.beforeunload": "اگر از ماستدون خارج شوید پیش‌نویس شما پاک خواهد شد.",
   "upload_area.title": "برای بارگذاری به این‌جا بکشید",

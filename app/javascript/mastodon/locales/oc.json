@@ -59,6 +59,7 @@
   "column_header.show_settings": "Mostrar los paramètres",
   "column_header.unpin": "Despenjar",
   "column_subheading.settings": "Paramètres",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "community.column_settings.media_only": "Solament los mèdias",
 =======
@@ -67,6 +68,9 @@
   "community.column_settings.media_only": "Solament los mèdias",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "community.column_settings.media_only": "Solament los mèdias",
+>>>>>>> upstream/master
   "compose_form.direct_message_warning": "Sols los mencionats poiràn veire aqueste tut.",
   "compose_form.direct_message_warning_learn_more": "Ne saber mai",
   "compose_form.hashtag_warning": "Aqueste tut serà pas ligat a cap d’etiqueta estant qu’es pas listat. Òm pas cercar que los tuts publics per etiqueta.",
@@ -90,6 +94,7 @@
   "confirmations.domain_block.confirm": "Amagar tot lo domeni",
   "confirmations.domain_block.message": "Volètz vertadièrament blocar complètament {domain} ? De còps cal pas que blocar o rescondre unas personas solament.\nVeiretz pas cap de contengut d’aquel domeni dins cap de flux public o dins vòstras notificacions. Vòstres seguidors d’aquel domeni seràn levats.",
   "confirmations.mute.confirm": "Rescondre",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "confirmations.mute.message": "Volètz vertadièrament rescondre {name} ?",
   "confirmations.redraft.confirm": "Escafar & tornar formular",
@@ -105,6 +110,11 @@
   "confirmations.redraft.message": "Volètz vertadièrament escafar aqueste estatut e lo reformular ? Perdretz totas sas responsas, sos partiments e favorits.",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "confirmations.mute.message": "Volètz vertadièrament rescondre {name} ?",
+  "confirmations.redraft.confirm": "Escafar & tornar formular",
+  "confirmations.redraft.message": "Volètz vertadièrament escafar aqueste estatut e lo reformular ? Perdretz totas sas responsas, sos partiments e favorits.",
+>>>>>>> upstream/master
   "confirmations.unfollow.confirm": "Quitar de sègre",
   "confirmations.unfollow.message": "Volètz vertadièrament quitar de sègre {name} ?",
   "embed.instructions": "Embarcar aqueste estatut per lo far veire sus un site Internet en copiar lo còdi çai-jos.",
@@ -133,7 +143,10 @@
   "empty_column.public": "I a pas res aquí ! Escrivètz quicòm de public, o seguètz de personas d’autras instàncias per garnir lo flux public",
   "follow_request.authorize": "Acceptar",
   "follow_request.reject": "Regetar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Desvelopaires",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Trobar d’amics de Twitter",
@@ -142,6 +155,7 @@
   "getting_started.open_source_notice": "Mastodon es un logicial liure. Podètz contribuir e mandar vòstres comentaris e rapòrt de bug via {github} sus GitHub.",
   "getting_started.security": "Seguretat",
   "getting_started.terms": "Condicions d’utilizacion",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -161,6 +175,8 @@
   "getting_started.terms": "Condicions d’utilizacion",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Basic",
   "home.column_settings.show_reblogs": "Mostrar los partatges",
   "home.column_settings.show_replies": "Mostrar las responsas",
@@ -201,6 +217,7 @@
   "navigation_bar.blocks": "Personas blocadas",
   "navigation_bar.community_timeline": "Flux public local",
   "navigation_bar.direct": "Messatges dirèctes",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.discover": "Trobar",
 =======
@@ -210,6 +227,9 @@
   "navigation_bar.discover": "Trobar",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.discover": "Trobar",
+>>>>>>> upstream/master
   "navigation_bar.domain_blocks": "Domenis resconduts",
   "navigation_bar.edit_profile": "Modificar lo perfil",
   "navigation_bar.favourites": "Favorits",
@@ -316,6 +336,7 @@
   "status.reblog": "Partejar",
   "status.reblog_private": "Partejar a l’audiéncia d’origina",
   "status.reblogged_by": "{name} a partejat",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "status.redraft": "Escafar e tornar formular",
 =======
@@ -325,6 +346,9 @@
   "status.redraft": "Escafar e tornar formular",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "status.redraft": "Escafar e tornar formular",
+>>>>>>> upstream/master
   "status.reply": "Respondre",
   "status.replyAll": "Respondre a la conversacion",
   "status.report": "Senhalar @{name}",
@@ -342,6 +366,7 @@
   "tabs_bar.local_timeline": "Flux public local",
   "tabs_bar.notifications": "Notificacions",
   "tabs_bar.search": "Recèrcas",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -350,6 +375,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} ne charra other {people}} ne charran",
   "ui.beforeunload": "Vòstre brolhon serà perdut se quitatz Mastodon.",
   "upload_area.title": "Lisatz e depausatz per mandar",

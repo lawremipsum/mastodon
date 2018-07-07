@@ -454,8 +454,11 @@ RSpec.describe Account, type: :model do
     end
   end
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> upstream/master
   describe '#statuses_count' do
     subject { Fabricate(:account) }
 
@@ -463,6 +466,7 @@ RSpec.describe Account, type: :model do
       Fabricate(:status, account: subject)
       Fabricate(:status, account: subject)
       expect(subject.statuses_count).to eq 2
+<<<<<<< HEAD
     end
 
     it 'does not count direct statuses' do
@@ -484,9 +488,12 @@ RSpec.describe Account, type: :model do
       expect(clean_status.association(:account).loaded?).to be false
       clean_status.destroy
       expect(subject.reload.statuses_count).to eq 0
+=======
+>>>>>>> upstream/master
     end
   end
 
+<<<<<<< HEAD
 >>>>>>> Stashed changes
   describe '#statuses_count' do
     subject { Fabricate(:account) }
@@ -509,6 +516,20 @@ RSpec.describe Account, type: :model do
       expect(subject.statuses_count).to eq 0
     end
 
+=======
+    it 'does not count direct statuses' do
+      Fabricate(:status, account: subject, visibility: :direct)
+      expect(subject.statuses_count).to eq 0
+    end
+
+    it 'is decremented when status is removed' do
+      status = Fabricate(:status, account: subject)
+      expect(subject.statuses_count).to eq 1
+      status.destroy
+      expect(subject.statuses_count).to eq 0
+    end
+
+>>>>>>> upstream/master
     it 'is decremented when status is removed when account is not preloaded' do
       status = Fabricate(:status, account: subject)
       expect(subject.reload.statuses_count).to eq 1

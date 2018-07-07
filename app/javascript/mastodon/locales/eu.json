@@ -42,6 +42,7 @@
   "column.blocks": "Blokeatutako erabiltzaileak",
   "column.community": "Denbora-lerro lokala",
   "column.direct": "Mezu zuzenak",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "column.domain_blocks": "Ezkutatutako domeinuak",
 =======
@@ -51,6 +52,9 @@
   "column.domain_blocks": "Ezkutatutako domeinuak",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "column.domain_blocks": "Ezkutatutako domeinuak",
+>>>>>>> upstream/master
   "column.favourites": "Gogokoak",
   "column.follow_requests": "Jarraitzeko eskariak",
   "column.home": "Hasiera",
@@ -67,6 +71,7 @@
   "column_header.show_settings": "Erakutsi ezarpenak",
   "column_header.unpin": "Desfinkatu",
   "column_subheading.settings": "Ezarpenak",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "community.column_settings.media_only": "Multimedia besterik ez",
 =======
@@ -75,6 +80,9 @@
   "community.column_settings.media_only": "Multimedia besterik ez",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "community.column_settings.media_only": "Multimedia besterik ez",
+>>>>>>> upstream/master
   "compose_form.direct_message_warning": "Toot hau aipatutako erabiltzaileei besterik ez zaie bidaliko.",
   "compose_form.direct_message_warning_learn_more": "Ikasi gehiago",
   "compose_form.hashtag_warning": "Toot hau ez da traoletan agertuko zerrendatu gabekoa baita. Traoletan toot publikoak besterik ez dira agertzen.",
@@ -91,16 +99,21 @@
   "confirmation_modal.cancel": "Utzi",
   "confirmations.block.confirm": "Block",
   "confirmations.block.message": "Ziur {name} blokeatu nahi duzula?",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "confirmations.delete.confirm": "Ezabatu",
 =======
 <<<<<<< HEAD
   "confirmations.delete.confirm": "Delete",
 >>>>>>> Stashed changes
+=======
+  "confirmations.delete.confirm": "Ezabatu",
+>>>>>>> upstream/master
   "confirmations.delete.message": "Ziur mezu hau ezabatu nahi duzula?",
   "confirmations.delete_list.confirm": "Ezabatu",
   "confirmations.delete_list.message": "Ziur behin betiko ezabatu nahi duzula zerrenda hau?",
   "confirmations.domain_block.confirm": "Ezkutatu domeinu osoa",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "confirmations.domain_block.message": "Ziur, erabat ziur, {domain} domeinu osoa blokeatu nahi duzula? Gehienetan gutxi batzuk blokeatu edo mututzearekin nahikoa da. Ez duzu domeinu horretako edukirik ikusiko denbora lerroetan edo jakinarazpenetan. Domeinu horretako zure jarraitzaileak kenduko dira ere.",
 =======
@@ -114,6 +127,9 @@
   "confirmations.domain_block.message": "Ziur, erabat ziur, {domain} domeinu osoa blokeatu nahi duzula? Gehienetan gutxi batzuk blokeatu edo mututzearekin nahikoa da. Ez duzu domeinu horretako edukirik ikusiko denbora lerroetan edo jakinarazpenetan. Domeinu horretako zure jarraitzaileak kenduko dira ere.",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "confirmations.domain_block.message": "Ziur, erabat ziur, {domain} domeinu osoa blokeatu nahi duzula? Gehienetan gutxi batzuk blokeatu edo mututzearekin nahikoa da. Ez duzu domeinu horretako edukirik ikusiko denbora lerroetan edo jakinarazpenetan. Domeinu horretako zure jarraitzaileak kenduko dira ere.",
+>>>>>>> upstream/master
   "confirmations.mute.confirm": "Mututu",
   "confirmations.mute.message": "Ziur {name} mututu nahi duzula?",
   "confirmations.redraft.confirm": "Ezabatu eta berridatzi",
@@ -146,6 +162,7 @@
   "empty_column.public": "Ez dago ezer hemen! Idatzi zerbait publikoki edo jarraitu eskuz beste instantzia batzuetako erabiltzailean hau betetzeko",
   "follow_request.authorize": "Baimendu",
   "follow_request.reject": "Ukatu",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "getting_started.developers": "Garatzaileak",
 =======
@@ -165,6 +182,8 @@
 =======
   "home.settings": "Zutabearen ezarpenak",
 =======
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Garatzaileak",
   "getting_started.documentation": "Dokumentazioa",
   "getting_started.find_friends": "Aurkitu Twitter-eko lagunak",
@@ -176,8 +195,11 @@
   "home.column_settings.basic": "Oinarrizkoa",
   "home.column_settings.show_reblogs": "Erakutsi bultzadak",
   "home.column_settings.show_replies": "Erakutsi erantzunak",
+<<<<<<< HEAD
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "keyboard_shortcuts.back": "atzera nabigatzeko",
   "keyboard_shortcuts.boost": "bultzada ematea",
   "keyboard_shortcuts.column": "mezu bat zutabe batean fokatzea",
@@ -201,6 +223,7 @@
   "lightbox.previous": "Aurrekoa",
   "lists.account.add": "Gehitu zerrendara",
   "lists.account.remove": "Kendu zerrendatik",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "lists.delete": "Ezabatu zerrenda",
 =======
@@ -210,6 +233,9 @@
   "lists.delete": "Ezabatu zerrenda",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "lists.delete": "Ezabatu zerrenda",
+>>>>>>> upstream/master
   "lists.edit": "Editatu zerrenda",
   "lists.new.create": "Gehitu zerrenda",
   "lists.new.title_placeholder": "Zerrenda berriaren izena",
@@ -224,6 +250,7 @@
   "navigation_bar.community_timeline": "Denbora-lerro lokala",
   "navigation_bar.direct": "Mezu zuzenak",
   "navigation_bar.discover": "Aurkitu",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.domain_blocks": "Ezkutatutako domeinuak",
 =======
@@ -233,6 +260,9 @@
   "navigation_bar.domain_blocks": "Ezkutatutako domeinuak",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.domain_blocks": "Ezkutatutako domeinuak",
+>>>>>>> upstream/master
   "navigation_bar.edit_profile": "Aldatu profila",
   "navigation_bar.favourites": "Gogokoak",
   "navigation_bar.follow_requests": "Jarraitzeko eskariak",
@@ -321,12 +351,16 @@
   "status.block": "Block @{name}",
   "status.cancel_reblog_private": "Kendu bultzada",
   "status.cannot_reblog": "Mezu honi ezin zaio bultzada eman",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "status.delete": "Ezabatu",
   "status.direct": "Mezu zuzena @{name}(r)i",
   "status.embed": "Txertatu",
   "status.favourite": "Gogokoa",
   "status.filtered": "Filtered",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "status.delete": "Delete",
@@ -341,6 +375,8 @@
   "status.filtered": "Filtered",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "status.load_more": "Kargatu gehiago",
   "status.media_hidden": "Multimedia ezkutatua",
   "status.mention": "Aipatu @{name}",
@@ -371,6 +407,7 @@
   "tabs_bar.local_timeline": "Lokala",
   "tabs_bar.notifications": "Jakinarazpenak",
   "tabs_bar.search": "Bilatu",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -379,6 +416,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} hitz egiten",
   "ui.beforeunload": "Zure zirriborroa galduko da Mastodon uzten baduzu.",
   "upload_area.title": "Arrastatu eta jaregin igotzeko",

@@ -59,6 +59,7 @@
   "column_header.show_settings": "Mostrar configurações",
   "column_header.unpin": "Desafixar",
   "column_subheading.settings": "Configurações",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "community.column_settings.media_only": "Apenas mídia",
 =======
@@ -67,6 +68,9 @@
   "community.column_settings.media_only": "Apenas mídia",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "community.column_settings.media_only": "Apenas mídia",
+>>>>>>> upstream/master
   "compose_form.direct_message_warning": "Este toot só será enviado aos usuários mencionados.",
   "compose_form.direct_message_warning_learn_more": "Saber mais",
   "compose_form.hashtag_warning": "Esse toot não será listado em nenhuma hashtag por ser não listado. Somente toots públicos podem ser pesquisados por hashtag.",
@@ -121,7 +125,10 @@
   "empty_column.public": "Não há nada aqui! Escreva algo publicamente ou siga manualmente usuários de outras instâncias",
   "follow_request.authorize": "Autorizar",
   "follow_request.reject": "Rejeitar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Desenvolvedores",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Encontre amizades do Twitter",
@@ -130,6 +137,7 @@
   "getting_started.open_source_notice": "Mastodon é um software de código aberto. Você pode contribuir ou reportar problemas na página do GitHub do projeto: {github}.",
   "getting_started.security": "Segurança",
   "getting_started.terms": "Termos de serviço",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -149,6 +157,8 @@
   "getting_started.terms": "Termos de serviço",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Básico",
   "home.column_settings.show_reblogs": "Mostrar compartilhamentos",
   "home.column_settings.show_replies": "Mostrar as respostas",
@@ -314,6 +324,7 @@
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Notificações",
   "tabs_bar.search": "Buscar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -322,6 +333,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {pessoa} other {pessoas}} falando sobre",
   "ui.beforeunload": "Seu rascunho será perdido se você sair do Mastodon.",
   "upload_area.title": "Arraste e solte para enviar",

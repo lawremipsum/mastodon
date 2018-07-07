@@ -50,7 +50,10 @@
   "column.mutes": "మ్యూట్ చేయబడిన వినియోగదారులు",
   "column.notifications": "ప్రకటనలు",
   "column.pins": "Pinned toot",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "column.public": "సమాఖ్య కాలక్రమం",
   "column_back_button.label": "వెనక్కి",
   "column_header.hide_settings": "అమర్పులను దాచిపెట్టు",
@@ -68,6 +71,7 @@
   "compose_form.lock_disclaimer.lock": "బిగించబడినది",
   "compose_form.placeholder": "మీ మనస్సులో ఏమి ఉంది?",
   "compose_form.publish": "టూట్",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "column.public": "Federated timeline",
@@ -87,6 +91,8 @@
   "compose_form.placeholder": "What is on your mind?",
   "compose_form.publish": "Toot",
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.marked": "మీడియా సున్నితమైనదిగా గుర్తించబడింది",
   "compose_form.sensitive.unmarked": "మీడియా సున్నితమైనదిగా గుర్తించబడలేదు",
@@ -136,6 +142,7 @@
   "follow_request.reject": "తిరస్కరించు",
   "getting_started.developers": "డెవలపర్లు",
   "getting_started.documentation": "Documentation",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
   "getting_started.heading": "Getting started",
@@ -219,6 +226,8 @@
   "getting_started.developers": "డెవలపర్లు",
   "getting_started.documentation": "Documentation",
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "getting_started.find_friends": "ట్విట్టర్ నుండి స్నేహితులను కనుగొనండి",
   "getting_started.heading": "మొదలుపెడదాం",
   "getting_started.invite": "వ్యక్తులను ఆహ్వానించండి",
@@ -232,6 +241,7 @@
   "keyboard_shortcuts.boost": "బూస్ట్ చేయడానికి",
   "keyboard_shortcuts.column": "నిలువు వరుసలలో ఒకదానిపై దృష్టి పెట్టడానికి",
   "keyboard_shortcuts.compose": "కంపోజ్ టెక్స్ట్ఏరియా పై దృష్టి పెట్టడానికి",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "keyboard_shortcuts.description": "Description",
   "keyboard_shortcuts.down": "జాబితాలో క్రిందికి వెళ్ళడానికి",
@@ -337,6 +347,11 @@
   "regeneration_indicator.sublabel": "Your home feed is being prepared!",
 =======
 >>>>>>> Stashed changes
+=======
+  "keyboard_shortcuts.description": "Description",
+  "keyboard_shortcuts.down": "జాబితాలో క్రిందికి వెళ్ళడానికి",
+  "keyboard_shortcuts.enter": "to open status",
+>>>>>>> upstream/master
   "keyboard_shortcuts.favourite": "ఇష్టపడడానికి",
   "keyboard_shortcuts.heading": "కీబోర్డ్ సత్వరమార్గాలు",
   "keyboard_shortcuts.hotkey": "హాట్ కీ",
@@ -430,10 +445,13 @@
   "privacy.unlisted.short": "జాబితా చేయబడనిది",
   "regeneration_indicator.label": "లోడ్ అవుతోంది…",
   "regeneration_indicator.sublabel": "మీ హోమ్ ఫీడ్ సిద్ధమవుతోంది!",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "relative_time.days": "{number}d",
   "relative_time.hours": "{number}h",
   "relative_time.just_now": "ఇప్పుడు",
@@ -457,6 +475,7 @@
   "search_results.hashtags": "హాష్ ట్యాగ్లు",
   "search_results.statuses": "టూట్లు",
   "search_results.total": "{count, number} {count, plural, one {result} other {results}}",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -519,6 +538,8 @@
   "video.unmute": "Unmute sound"
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "standalone.public_title": "లోపలికి ఒక చూపు...",
   "status.block": "@{name} ను బ్లాక్ చేయి",
   "status.cancel_reblog_private": "బూస్ట్ను తొలగించు",
@@ -575,8 +596,11 @@
   "video.pause": "పాజ్ చేయి",
   "video.play": "ప్లే చేయి",
   "video.unmute": "ధ్వనిని అన్మ్యూట్ చేయి"
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
 }

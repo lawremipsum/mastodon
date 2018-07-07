@@ -114,7 +114,10 @@
   "empty_column.public": "Täällä ei ole mitään! Saat sisältöä, kun kirjoitat jotain julkisesti tai käyt manuaalisesti seuraamassa muiden instanssien käyttäjiä",
   "follow_request.authorize": "Valtuuta",
   "follow_request.reject": "Hylkää",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -123,6 +126,7 @@
   "getting_started.open_source_notice": "Mastodon on avoimen lähdekoodin ohjelma. Voit avustaa tai raportoida ongelmia GitHubissa: {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -142,6 +146,8 @@
   "getting_started.terms": "Terms of service",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Perusasetukset",
   "home.column_settings.show_reblogs": "Näytä buustaukset",
   "home.column_settings.show_replies": "Näytä vastaukset",
@@ -307,6 +313,7 @@
   "tabs_bar.local_timeline": "Paikallinen",
   "tabs_bar.notifications": "Ilmoitukset",
   "tabs_bar.search": "Hae",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -315,6 +322,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Luonnos häviää, jos poistut Mastodonista.",
   "upload_area.title": "Lataa raahaamalla ja pudottamalla tähän",

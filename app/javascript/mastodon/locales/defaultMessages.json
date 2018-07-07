@@ -639,6 +639,7 @@
       {
         "defaultMessage": "Media Only",
         "id": "community.column_settings.media_only"
+<<<<<<< HEAD
       }
     ],
     "path": "app/javascript/mastodon/features/community_timeline/components/column_settings.json"
@@ -658,6 +659,8 @@
       {
         "defaultMessage": "The local timeline is empty. Write something publicly to get the ball rolling!",
         "id": "empty_column.community"
+=======
+>>>>>>> upstream/master
       }
     ],
     "path": "app/javascript/mastodon/features/community_timeline/index.json"
@@ -677,6 +680,7 @@
 >>>>>>> Stashed changes
       },
       {
+<<<<<<< HEAD
         "defaultMessage": "Pinned toots",
         "id": "navigation_bar.pins"
       },
@@ -685,6 +689,29 @@
         "id": "navigation_bar.preferences"
       },
       {
+=======
+        "defaultMessage": "The local timeline is empty. Write something publicly to get the ball rolling!",
+        "id": "empty_column.community"
+      }
+    ],
+    "path": "app/javascript/mastodon/features/community_timeline/index.json"
+  },
+  {
+    "descriptors": [
+      {
+        "defaultMessage": "Edit profile",
+        "id": "account.edit_profile"
+      },
+      {
+        "defaultMessage": "Pinned toots",
+        "id": "navigation_bar.pins"
+      },
+      {
+        "defaultMessage": "Preferences",
+        "id": "navigation_bar.preferences"
+      },
+      {
+>>>>>>> upstream/master
         "defaultMessage": "Follow requests",
         "id": "navigation_bar.follow_requests"
       },
@@ -710,6 +737,7 @@
       }
     ],
     "path": "app/javascript/mastodon/features/compose/components/action_bar.json"
+<<<<<<< HEAD
   },
   {
     "descriptors": [
@@ -752,6 +780,8 @@
       }
     ],
     "path": "app/javascript/mastodon/features/compose/components/action_bar.json"
+=======
+>>>>>>> upstream/master
   },
   {
     "descriptors": [
@@ -1199,11 +1229,14 @@
         "id": "getting_started.heading"
       },
       {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
         "defaultMessage": "Find friends from Twitter",
         "id": "getting_started.find_friends"
       },
@@ -1212,23 +1245,34 @@
         "id": "getting_started.invite"
       },
       {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
         "defaultMessage": "Hotkeys",
         "id": "navigation_bar.keyboard_shortcuts"
       },
       {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
+=======
+        "defaultMessage": "Security",
+        "id": "getting_started.security"
+      },
+      {
+>>>>>>> upstream/master
         "defaultMessage": "About this instance",
         "id": "navigation_bar.info"
       },
       {
         "defaultMessage": "Terms of service",
         "id": "getting_started.terms"
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
         "defaultMessage": "Security",
@@ -1251,6 +1295,14 @@
 >>>>>>> Stashed changes
       },
       {
+=======
+      },
+      {
+        "defaultMessage": "Developers",
+        "id": "getting_started.developers"
+      },
+      {
+>>>>>>> upstream/master
         "defaultMessage": "Documentation",
         "id": "getting_started.documentation"
       },

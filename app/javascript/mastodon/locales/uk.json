@@ -114,7 +114,10 @@
   "empty_column.public": "Тут поки нічого немає! Опублікуйте щось, або вручну підпишіться на користувачів інших інстанцій, щоб заповнити стрічку.",
   "follow_request.authorize": "Авторизувати",
   "follow_request.reject": "Відмовити",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -123,6 +126,7 @@
   "getting_started.open_source_notice": "Mastodon - програма з відкритим вихідним кодом. Ви можете допомогти проекту, або повідомити про проблеми на GitHub за адресою {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -142,6 +146,8 @@
   "getting_started.terms": "Terms of service",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Основні",
   "home.column_settings.show_reblogs": "Показувати передмухи",
   "home.column_settings.show_replies": "Показувати відповіді",
@@ -307,6 +313,7 @@
   "tabs_bar.local_timeline": "Локальна",
   "tabs_bar.notifications": "Сповіщення",
   "tabs_bar.search": "Search",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -315,6 +322,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Your draft will be lost if you leave Mastodon.",
   "upload_area.title": "Перетягніть сюди, щоб завантажити",

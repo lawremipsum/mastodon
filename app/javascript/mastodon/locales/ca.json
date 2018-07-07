@@ -114,7 +114,10 @@
   "empty_column.public": "No hi ha res aquí! Escriu alguna cosa públicament o segueix manualment usuaris d'altres instàncies per omplir-ho",
   "follow_request.authorize": "Autoritzar",
   "follow_request.reject": "Rebutjar",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Desenvolupadors",
   "getting_started.documentation": "Documentació",
   "getting_started.find_friends": "Troba amics de Twitter",
@@ -123,6 +126,7 @@
   "getting_started.open_source_notice": "Mastodon és un programari de codi obert. Pots contribuir o informar de problemes a GitHub a {github}.",
   "getting_started.security": "Seguretat",
   "getting_started.terms": "Termes del servei",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentation",
@@ -142,6 +146,8 @@
   "getting_started.terms": "Termes del servei",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Bàsic",
   "home.column_settings.show_reblogs": "Mostrar impulsos",
   "home.column_settings.show_replies": "Mostrar respostes",
@@ -307,6 +313,7 @@
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Notificacions",
   "tabs_bar.search": "Cerca",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -315,6 +322,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, una {person} altres {people}} parlant",
   "ui.beforeunload": "El vostre esborrany es perdrà si sortiu de Mastodon.",
   "upload_area.title": "Arrossega i deixa anar per carregar",

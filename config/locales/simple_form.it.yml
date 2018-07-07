@@ -6,6 +6,7 @@ it:
         autofollow: Le persone che si iscrivono attraverso l'invito ti seguiranno automaticamente
         avatar: PNG, GIF o JPG. Al massimo 2MB. Verranno scalate a 400x400px
         bot: Questo account esegue principalmente operazioni automatiche e potrebbe non essere tenuto sotto controllo da una persona
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         context: Uno o più contesti nei quali il filtro dovrebbe essere applicato
 =======
@@ -14,6 +15,9 @@ it:
         context: Uno o più contesti nei quali il filtro dovrebbe essere applicato
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        context: Uno o più contesti nei quali il filtro dovrebbe essere applicato
+>>>>>>> upstream/master
         digest: Inviata solo dopo un lungo periodo di inattività e solo se hai ricevuto qualche messaggio personale in tua assenza
         display_name:
           one: <span class="name-counter">1</span> carattere rimanente
@@ -26,6 +30,7 @@ it:
         note:
           one: <span class="note-counter">1</span> carattere rimanente
           other: <span class="note-counter">%{count}</span> caratteri rimanenti
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         phrase: Il confronto sarà eseguito ignorando minuscole/maiuscole e i content warning
         setting_default_language: La lingua dei tuoi toot può essere individuata automaticamente, ma il risultato non è sempre accurato
@@ -36,6 +41,10 @@ it:
         setting_default_language: La lingua dei tuoi toot può essere individuata automaticamente, ma il risultato non è sempre accurato
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        phrase: Il confronto sarà eseguito ignorando minuscole/maiuscole e i content warning
+        setting_default_language: La lingua dei tuoi toot può essere individuata automaticamente, ma il risultato non è sempre accurato
+>>>>>>> upstream/master
         setting_hide_network: Chi segui e chi segue te non saranno mostrati sul tuo profilo
         setting_noindex: Ha effetto sul tuo profilo pubblico e sulle pagine degli status
         setting_theme: Ha effetto sul modo in cui Mastodon verrà visualizzato quando sarai collegato da qualsiasi dispositivo.
@@ -44,6 +53,7 @@ it:
       sessions:
         otp: 'Inserisci il codice a due fattori generato dall''app del tuo telefono o usa uno dei codici di recupero:'
       user:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         chosen_languages: Quando una o più lingue sono contrassegnate, nelle timeline pubbliche vengono mostrati solo i toot nelle lingue selezionate
 =======
@@ -53,6 +63,9 @@ it:
         chosen_languages: Quando una o più lingue sono contrassegnate, nelle timeline pubbliche vengono mostrati solo i toot nelle lingue selezionate
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        chosen_languages: Quando una o più lingue sono contrassegnate, nelle timeline pubbliche vengono mostrati solo i toot nelle lingue selezionate
+>>>>>>> upstream/master
     labels:
       account:
         fields:
@@ -72,6 +85,7 @@ it:
         email: Indirizzo email
         expires_in: Scade dopo
         fields: Metadati del profilo
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -79,6 +93,8 @@ it:
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
         header: Header
         irreversible: Elimina invece di nascondere
         locale: Lingua dell'interfaccia
@@ -91,6 +107,7 @@ it:
         phrase: Parola chiave o frase
         setting_auto_play_gif: Play automatico GIF animate
         setting_boost_modal: Mostra dialogo di conferma prima del boost
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         setting_default_language: Lingua dei post
 =======
@@ -99,6 +116,9 @@ it:
         setting_default_language: Lingua dei post
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        setting_default_language: Lingua dei post
+>>>>>>> upstream/master
         setting_default_privacy: Privacy dei post
         setting_default_sensitive: Segna sempre i media come sensibili
         setting_delete_modal: Mostra dialogo di conferma prima di eliminare un toot

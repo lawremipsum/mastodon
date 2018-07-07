@@ -114,7 +114,10 @@
   "empty_column.public": "Er is hier helemaal niks! Toot iets in het openbaar of volg mensen van andere servers om het te vullen",
   "follow_request.authorize": "Goedkeuren",
   "follow_request.reject": "Afkeuren",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> upstream/master
   "getting_started.developers": "Ontwikkelaars",
   "getting_started.documentation": "Documentatie",
   "getting_started.find_friends": "Vind vrienden van Twitter",
@@ -123,6 +126,7 @@
   "getting_started.open_source_notice": "Mastodon is vrije software. Je kunt bijdragen of problemen melden op GitHub via {github}.",
   "getting_started.security": "Beveiliging",
   "getting_started.terms": "Voorwaarden",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   "getting_started.documentation": "Documentatie",
@@ -142,6 +146,8 @@
   "getting_started.terms": "Voorwaarden",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "home.column_settings.basic": "Algemeen",
   "home.column_settings.show_reblogs": "Boosts tonen",
   "home.column_settings.show_replies": "Reacties tonen",
@@ -192,6 +198,7 @@
   "navigation_bar.lists": "Lijsten",
   "navigation_bar.logout": "Afmelden",
   "navigation_bar.mutes": "Genegeerde gebruikers",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "navigation_bar.personal": "Persoonlijk",
 =======
@@ -201,6 +208,9 @@
   "navigation_bar.personal": "Persoonlijk",
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+  "navigation_bar.personal": "Persoonlijk",
+>>>>>>> upstream/master
   "navigation_bar.pins": "Vastgezette toots",
   "navigation_bar.preferences": "Instellingen",
   "navigation_bar.public_timeline": "Globale tijdlijn",
@@ -315,6 +325,7 @@
   "tabs_bar.local_timeline": "Lokaal",
   "tabs_bar.notifications": "Meldingen",
   "tabs_bar.search": "Zoeken",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -323,6 +334,8 @@
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {persoon praat} other {mensen praten}} hierover",
   "ui.beforeunload": "Je concept zal verloren gaan als je Mastodon verlaat.",
   "upload_area.title": "Hierin slepen om te uploaden",

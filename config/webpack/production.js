@@ -91,6 +91,7 @@ module.exports = merge(sharedConfig, {
         ],
       },
       externals: [
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< b30c2438145d3919ac9eb43f55432bb6a6d4d87f
 =======
@@ -106,6 +107,10 @@ module.exports = merge(sharedConfig, {
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        '/emoji/1f602.svg', // used for emoji picker dropdown
+        '/emoji/sheet_10.png', // used in emoji-mart
+>>>>>>> upstream/master
       ],
       excludes: [
         '**/*.gz',

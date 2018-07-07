@@ -19,6 +19,7 @@ ko:
         note:
           one: <span class="note-counter">1</span> 글자 남음
           other: <span class="note-counter">%{count}</span> 글자 남음
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         phrase: 툿 내용이나 CW 내용 안에서 대소문자 구분 없이 매칭 됩니다
         setting_default_language: 작성한 툿의 언어는 자동으로 인식할 수 있지만, 언제나 정확한 건 아닙니다
@@ -29,6 +30,10 @@ ko:
         setting_default_language: 작성한 툿의 언어는 자동으로 인식할 수 있지만, 언제나 정확한 건 아닙니다
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        phrase: 툿 내용이나 CW 내용 안에서 대소문자 구분 없이 매칭 됩니다
+        setting_default_language: 작성한 툿의 언어는 자동으로 인식할 수 있지만, 언제나 정확한 건 아닙니다
+>>>>>>> upstream/master
         setting_hide_network: 나를 팔로우 하는 사람들과 내가 팔로우 하는 사람들이 내 프로필에 표시되지 않게 합니다
         setting_noindex: 공개 프로필 및 각 툿페이지에 영향을 미칩니다
         setting_theme: 로그인중인 모든 디바이스에 적용되는 디자인입니다.

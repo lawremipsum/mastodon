@@ -3,6 +3,7 @@ sv:
   simple_form:
     hints:
       defaults:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         autofollow: Användarkonton som skapas genom din inbjudan kommer automatiskt följa dig
 =======
@@ -11,6 +12,9 @@ sv:
         autofollow: Användarkonton som skapas genom din inbjudan kommer automatiskt följa dig
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        autofollow: Användarkonton som skapas genom din inbjudan kommer automatiskt följa dig
+>>>>>>> upstream/master
         avatar: Högst 2 MB. Kommer att skalas ner till 400x400px
         bot: Detta konto utför huvudsakligen automatiserade åtgärder och kanske inte övervakas
         digest: Skickas endast efter en lång period av inaktivitet och endast om du har fått några personliga meddelanden i din frånvaro
@@ -24,6 +28,7 @@ sv:
         note:
           one: <span class="note-counter">1</span> tecken kvar
           other: <span class="note-counter">%{count}</span> tecken kvar
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         setting_default_language: Språket av dina inlägg kan upptäckas automatiskt, men det är inte alltid rätt
 =======
@@ -32,6 +37,9 @@ sv:
         setting_default_language: Språket av dina inlägg kan upptäckas automatiskt, men det är inte alltid rätt
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        setting_default_language: Språket av dina inlägg kan upptäckas automatiskt, men det är inte alltid rätt
+>>>>>>> upstream/master
         setting_hide_network: Vem du följer och vilka som följer dig kommer inte att visas på din profilsida
         setting_noindex: Påverkar din offentliga profil och statussidor
         setting_theme: Påverkar hur Mastodon ser ut oavsett från vilken enhet du är inloggad.
@@ -50,6 +58,7 @@ sv:
         autofollow: Bjud in till att följa ditt konto
         avatar: Avatar
         bot: Detta är ett botkonto
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         chosen_languages: Filtrera språk
 =======
@@ -58,6 +67,9 @@ sv:
         chosen_languages: Filtrera språk
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+        chosen_languages: Filtrera språk
+>>>>>>> upstream/master
         confirm_new_password: Bekräfta nytt lösenord
         confirm_password: Bekräfta lösenord
         current_password: Nuvarande lösenord

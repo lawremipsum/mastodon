@@ -8,6 +8,7 @@ import ColumnHeader from '../../components/column_header';
 import { expandCommunityTimeline } from '../../actions/timelines';
 import { addColumn, removeColumn, moveColumn } from '../../actions/columns';
 import ColumnSettingsContainer from './containers/column_settings_container';
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -15,6 +16,8 @@ import SectionHeadline from './components/section_headline';
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
 import { connectCommunityStream } from '../../actions/streaming';
 
 const messages = defineMessages({
@@ -110,6 +113,7 @@ export default class CommunityTimeline extends React.PureComponent {
     const { intl, hasUnread, columnId, multiColumn, onlyMedia } = this.props;
     const pinned = !!columnId;
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -126,6 +130,8 @@ export default class CommunityTimeline extends React.PureComponent {
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
     return (
       <Column ref={this.setRef}>
         <ColumnHeader
@@ -142,6 +148,7 @@ export default class CommunityTimeline extends React.PureComponent {
         </ColumnHeader>
 
         <StatusListContainer
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -150,6 +157,8 @@ export default class CommunityTimeline extends React.PureComponent {
 =======
 >>>>>>> upstream/master
 >>>>>>> Stashed changes
+=======
+>>>>>>> upstream/master
           trackScroll={!pinned}
           scrollKey={`community_timeline-${columnId}`}
           timelineId={`community${onlyMedia ? ':media' : ''}`}
