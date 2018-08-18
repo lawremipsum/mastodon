@@ -114,10 +114,6 @@
   "empty_column.public": "No hi ha res aquí! Escriu alguna cosa públicament o segueix manualment usuaris d'altres instàncies per omplir-ho",
   "follow_request.authorize": "Autoritzar",
   "follow_request.reject": "Rebutjar",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Desenvolupadors",
   "getting_started.documentation": "Documentació",
   "getting_started.find_friends": "Troba amics de Twitter",
@@ -126,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon és un programari de codi obert. Pots contribuir o informar de problemes a GitHub a {github}.",
   "getting_started.security": "Seguretat",
   "getting_started.terms": "Termes del servei",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "Desenvolupadors",
-  "getting_started.documentation": "Documentació",
-  "getting_started.find_friends": "Troba amics de Twitter",
->>>>>>> upstream/master
-  "getting_started.heading": "Començant",
-  "getting_started.invite": "Convida gent",
-  "getting_started.open_source_notice": "Mastodon és un programari de codi obert. Pots contribuir o informar de problemes a GitHub a {github}.",
-<<<<<<< HEAD
-  "getting_started.terms": "Termes del servei",
-  "home.column_settings.advanced": "Avançat",
-=======
-  "getting_started.security": "Seguretat",
-  "getting_started.terms": "Termes del servei",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Bàsic",
   "home.column_settings.show_reblogs": "Mostrar impulsos",
   "home.column_settings.show_replies": "Mostrar respostes",
@@ -192,6 +166,7 @@
   "navigation_bar.domain_blocks": "Dominis ocults",
   "navigation_bar.edit_profile": "Editar perfil",
   "navigation_bar.favourites": "Favorits",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Sol·licituds de seguiment",
   "navigation_bar.info": "Informació addicional",
   "navigation_bar.keyboard_shortcuts": "Dreceres de teclat",
@@ -313,17 +288,6 @@
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Notificacions",
   "tabs_bar.search": "Cerca",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "Media",
-  "timeline.posts": "Toots",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, una {person} altres {people}} parlant",
   "ui.beforeunload": "El vostre esborrany es perdrà si sortiu de Mastodon.",
   "upload_area.title": "Arrossega i deixa anar per carregar",

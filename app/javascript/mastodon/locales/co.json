@@ -114,10 +114,6 @@
   "empty_column.public": "Ùn c'hè nunda quì! Scrivete qualcosa in pubblicu o seguitate utilizatori d'altre istanze per empie a linea pubblica",
   "follow_request.authorize": "Auturizà",
   "follow_request.reject": "Righjittà",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -126,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon ghjè un lugiziale liberu. Pudete cuntribuisce à u codice o a traduzione, o palisà un bug, nant'à GitHub: {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "Developers",
-  "getting_started.documentation": "Documentation",
-  "getting_started.find_friends": "Find friends from Twitter",
->>>>>>> upstream/master
-  "getting_started.heading": "Per principià",
-  "getting_started.invite": "Invite people",
-  "getting_started.open_source_notice": "Mastodon ghjè un lugiziale liberu. Pudete cuntribuisce à u codice o a traduzione, o palisà un bug, nant'à GitHub: {github}.",
-<<<<<<< HEAD
-  "getting_started.terms": "Terms of service",
-  "home.column_settings.advanced": "Avanzati",
-=======
-  "getting_started.security": "Security",
-  "getting_started.terms": "Terms of service",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Bàsichi",
   "home.column_settings.show_reblogs": "Vede e spartere",
   "home.column_settings.show_replies": "Vede e risposte",
@@ -192,6 +166,7 @@
   "navigation_bar.domain_blocks": "Duminii piattati",
   "navigation_bar.edit_profile": "Mudificà u prufile",
   "navigation_bar.favourites": "Favuriti",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Dumande d'abbunamentu",
   "navigation_bar.info": "À prupositu di l'istanza",
   "navigation_bar.keyboard_shortcuts": "Accorte cù a tastera",
@@ -313,17 +288,6 @@
   "tabs_bar.local_timeline": "Lucale",
   "tabs_bar.notifications": "Nutificazione",
   "tabs_bar.search": "Cercà",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "Media",
-  "timeline.posts": "Toots",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "A bruttacopia sarà persa s'ellu hè chjosu Mastodon.",
   "upload_area.title": "Drag & drop per caricà un fugliale",

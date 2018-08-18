@@ -10,19 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-ActiveRecord::Schema.define(version: 2018_06_28_181026) do
-=======
-<<<<<<< HEAD
-ActiveRecord::Schema.define(version: 2018_06_09_104432) do
-=======
-ActiveRecord::Schema.define(version: 2018_06_28_181026) do
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-ActiveRecord::Schema.define(version: 2018_06_28_181026) do
->>>>>>> upstream/master
+ActiveRecord::Schema.define(version: 2018_07_07_154237) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -161,6 +149,7 @@ ActiveRecord::Schema.define(version: 2018_06_28_181026) do
     t.text "phrase", default: "", null: false
     t.string "context", default: [], null: false, array: true
     t.boolean "irreversible", default: false, null: false
+    t.boolean "whole_word", default: true, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["account_id"], name: "index_custom_filters_on_account_id"

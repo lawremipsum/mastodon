@@ -114,10 +114,6 @@
   "empty_column.public": "Tu nic nie ma! Napisz coś publicznie, lub dodaj ludzi z innych instancji, aby to wyświetlić",
   "follow_request.authorize": "Autoryzuj",
   "follow_request.reject": "Odrzuć",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Dla programistów",
   "getting_started.documentation": "Dokumentacja",
   "getting_started.find_friends": "Znajdź znajomych z Twittera",
@@ -126,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon jest oprogramowaniem o otwartym źródle. Możesz pomóc w rozwoju lub zgłaszać błędy na GitHubie tutaj: {github}.",
   "getting_started.security": "Bezpieczeństwo",
   "getting_started.terms": "Zasady użytkowania",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Dokumentacja",
-=======
-  "getting_started.developers": "Dla programistów",
-  "getting_started.documentation": "Dokumentacja",
-  "getting_started.find_friends": "Znajdź znajomych z Twittera",
->>>>>>> upstream/master
-  "getting_started.heading": "Rozpocznij",
-  "getting_started.invite": "Zaproś znajomych",
-  "getting_started.open_source_notice": "Mastodon jest oprogramowaniem o otwartym źródle. Możesz pomóc w rozwoju lub zgłaszać błędy na GitHubie tutaj: {github}.",
-<<<<<<< HEAD
-  "getting_started.terms": "Zasady użytkowania",
-  "home.column_settings.advanced": "Zaawansowane",
-=======
-  "getting_started.security": "Bezpieczeństwo",
-  "getting_started.terms": "Zasady użytkowania",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Podstawowe",
   "home.column_settings.show_reblogs": "Pokazuj podbicia",
   "home.column_settings.show_replies": "Pokazuj odpowiedzi",
@@ -192,6 +166,7 @@
   "navigation_bar.domain_blocks": "Ukryte domeny",
   "navigation_bar.edit_profile": "Edytuj profil",
   "navigation_bar.favourites": "Ulubione",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Prośby o śledzenie",
   "navigation_bar.info": "Szczegółowe informacje",
   "navigation_bar.keyboard_shortcuts": "Skróty klawiszowe",
@@ -313,17 +288,6 @@
   "tabs_bar.local_timeline": "Lokalne",
   "tabs_bar.notifications": "Powiadomienia",
   "tabs_bar.search": "Szukaj",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "Zawartość multimedialna",
-  "timeline.posts": "Wpisy",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {osoba rozmawia} few {osoby rozmawiają} other {osób rozmawia}} o tym",
   "ui.beforeunload": "Utracisz tworzony wpis, jeżeli opuścisz Mastodona.",
   "upload_area.title": "Przeciągnij i upuść aby wysłać",
