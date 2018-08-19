@@ -59,18 +59,7 @@
   "column_header.show_settings": "設定を表示",
   "column_header.unpin": "ピン留めを外す",
   "column_subheading.settings": "設定",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "community.column_settings.media_only": "メディアのみ表示",
-=======
-<<<<<<< HEAD
-=======
-  "community.column_settings.media_only": "メディアのみ表示",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "community.column_settings.media_only": "メディアのみ表示",
->>>>>>> upstream/master
   "compose_form.direct_message_warning": "このトゥートはメンションされた人にのみ送信されます。",
   "compose_form.direct_message_warning_learn_more": "もっと詳しく",
   "compose_form.hashtag_warning": "このトゥートは未収載なのでハッシュタグの一覧に表示されません。公開トゥートだけがハッシュタグで検索できます。",
@@ -95,23 +84,8 @@
   "confirmations.domain_block.message": "本当に{domain}全体を非表示にしますか？ 多くの場合は個別にブロックやミュートするだけで充分であり、また好ましいです。公開タイムラインにそのドメインのコンテンツが表示されなくなり、通知も届かなくなります。そのドメインのフォロワーはアンフォローされます。",
   "confirmations.mute.confirm": "ミュート",
   "confirmations.mute.message": "本当に{name}さんをミュートしますか？",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "confirmations.redraft.confirm": "削除して下書きに戻す",
   "confirmations.redraft.message": "本当にこのトゥートを削除して下書きに戻しますか？ このトゥートへの全ての返信やブースト、お気に入り登録を失うことになります。",
-=======
-<<<<<<< HEAD
-  "confirmations.redraft.confirm": "削除し下書きに戻す",
-  "confirmations.redraft.message": "本当にこのトゥートを削除し下書きに戻しますか？このトゥートへの全ての返信やブースト、お気に入り登録を失うことになります。",
-=======
-  "confirmations.redraft.confirm": "削除して下書きに戻す",
-  "confirmations.redraft.message": "本当にこのトゥートを削除して下書きに戻しますか？ このトゥートへの全ての返信やブースト、お気に入り登録を失うことになります。",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "confirmations.redraft.confirm": "削除して下書きに戻す",
-  "confirmations.redraft.message": "本当にこのトゥートを削除して下書きに戻しますか？ このトゥートへの全ての返信やブースト、お気に入り登録を失うことになります。",
->>>>>>> upstream/master
   "confirmations.unfollow.confirm": "フォロー解除",
   "confirmations.unfollow.message": "本当に{name}さんのフォローを解除しますか？",
   "embed.instructions": "下記のコードをコピーしてウェブサイトに埋め込みます。",
@@ -140,10 +114,6 @@
   "empty_column.public": "ここにはまだ何もありません！ 公開で何かを投稿したり、他のインスタンスのユーザーをフォローしたりしていっぱいにしましょう",
   "follow_request.authorize": "許可",
   "follow_request.reject": "拒否",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "開発",
   "getting_started.documentation": "ドキュメント",
   "getting_started.find_friends": "Twitterの友達を探す",
@@ -152,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodonはオープンソースソフトウェアです。誰でもGitHub（{github}）から開発に参加したり、問題を報告したりできます。",
   "getting_started.security": "セキュリティ",
   "getting_started.terms": "プライバシーポリシー",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "ドキュメント",
-=======
-  "getting_started.developers": "開発",
-  "getting_started.documentation": "ドキュメント",
-  "getting_started.find_friends": "Twitterの友達を探す",
->>>>>>> upstream/master
-  "getting_started.heading": "スタート",
-  "getting_started.invite": "招待",
-  "getting_started.open_source_notice": "Mastodonはオープンソースソフトウェアです。誰でもGitHub（{github}）から開発に参加したり、問題を報告したりできます。",
-<<<<<<< HEAD
-  "getting_started.terms": "プライバシーポリシー",
-  "home.column_settings.advanced": "高度な設定",
-=======
-  "getting_started.security": "セキュリティ",
-  "getting_started.terms": "プライバシーポリシー",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "基本設定",
   "home.column_settings.show_reblogs": "ブースト表示",
   "home.column_settings.show_replies": "返信表示",
@@ -218,6 +166,7 @@
   "navigation_bar.domain_blocks": "非表示にしたドメイン",
   "navigation_bar.edit_profile": "プロフィールを編集",
   "navigation_bar.favourites": "お気に入り",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "フォローリクエスト",
   "navigation_bar.info": "このインスタンスについて",
   "navigation_bar.keyboard_shortcuts": "ホットキー",
@@ -308,7 +257,7 @@
   "status.direct": "@{name}さんにダイレクトメッセージ",
   "status.embed": "埋め込み",
   "status.favourite": "お気に入り",
-  "status.filtered": "Filtered",
+  "status.filtered": "フィルターされました",
   "status.load_more": "もっと見る",
   "status.media_hidden": "非表示のメディア",
   "status.mention": "@{name}さんにトゥート",
@@ -321,19 +270,7 @@
   "status.reblog": "ブースト",
   "status.reblog_private": "ブースト",
   "status.reblogged_by": "{name}さんがブースト",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "status.redraft": "削除して下書きに戻す",
-=======
-<<<<<<< HEAD
-  "status.redraft": "削除し下書きに戻す",
-=======
-  "status.redraft": "削除して下書きに戻す",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "status.redraft": "削除して下書きに戻す",
->>>>>>> upstream/master
   "status.reply": "返信",
   "status.replyAll": "全員に返信",
   "status.report": "@{name}さんを通報",
@@ -351,17 +288,6 @@
   "tabs_bar.local_timeline": "ローカル",
   "tabs_bar.notifications": "通知",
   "tabs_bar.search": "検索",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "メディア",
-  "timeline.posts": "投稿",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {人} other {人}} がトゥート",
   "ui.beforeunload": "Mastodonから離れると送信前の投稿は失われます。",
   "upload_area.title": "ドラッグ＆ドロップでアップロード",

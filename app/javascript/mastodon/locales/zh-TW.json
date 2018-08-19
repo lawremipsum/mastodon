@@ -84,23 +84,8 @@
   "confirmations.domain_block.message": "你真的確定要靜音所有來自 {domain} 的內容嗎? 多數情況下，封鎖或靜音幾個特定用戶應該就能滿足你的需求了。來自該站點的內容將不再出現在你的公共時間軸或通知裡。來自該站點的關注者將會被移除。",
   "confirmations.mute.confirm": "消音",
   "confirmations.mute.message": "你確定要消音 {name} ？",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "confirmations.redraft.confirm": "刪除 & 編輯",
   "confirmations.redraft.message": "你確定要刪除這條嘟文並重新編輯它嗎? 所有相關的回覆、轉嘟與最愛都會被刪除。",
-=======
-<<<<<<< HEAD
-  "confirmations.redraft.confirm": "Delete & redraft",
-  "confirmations.redraft.message": "Are you sure you want to delete this status and re-draft it? You will lose all replies, boosts and favourites to it.",
-=======
-  "confirmations.redraft.confirm": "刪除 & 編輯",
-  "confirmations.redraft.message": "你確定要刪除這條嘟文並重新編輯它嗎? 所有相關的回覆、轉嘟與最愛都會被刪除。",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "confirmations.redraft.confirm": "刪除 & 編輯",
-  "confirmations.redraft.message": "你確定要刪除這條嘟文並重新編輯它嗎? 所有相關的回覆、轉嘟與最愛都會被刪除。",
->>>>>>> upstream/master
   "confirmations.unfollow.confirm": "取消關注",
   "confirmations.unfollow.message": "真的不要繼續關注 {name} 了嗎？",
   "embed.instructions": "要內嵌此貼文，請將以下代碼貼進你的網站。",
@@ -129,10 +114,6 @@
   "empty_column.public": "這裡什麼都沒有! 寫一些公開的嘟文，或著關注其他站點的使用者後，這裡就會有嘟文出現了",
   "follow_request.authorize": "授權",
   "follow_request.reject": "拒絕",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "開發",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "尋找 Twitter 好友",
@@ -141,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon 是開源軟體。你可以在 GitHub {github} 上做出貢獻或是回報問題。",
   "getting_started.security": "登入資訊",
   "getting_started.terms": "使用條款",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "開發",
-  "getting_started.documentation": "Documentation",
-  "getting_started.find_friends": "尋找 Twitter 好友",
->>>>>>> upstream/master
-  "getting_started.heading": "馬上開始",
-  "getting_started.invite": "邀請使用者",
-  "getting_started.open_source_notice": "Mastodon 是開源軟體。你可以在 GitHub {github} 上做出貢獻或是回報問題。",
-<<<<<<< HEAD
-  "getting_started.terms": "Terms of service",
-  "home.column_settings.advanced": "進階",
-=======
-  "getting_started.security": "登入資訊",
-  "getting_started.terms": "使用條款",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "基本",
   "home.column_settings.show_reblogs": "顯示轉推",
   "home.column_settings.show_replies": "顯示回應",
@@ -202,37 +161,17 @@
   "mute_modal.hide_notifications": "隱藏來自這個使用者的通知？",
   "navigation_bar.blocks": "封鎖的使用者",
   "navigation_bar.community_timeline": "本地時間軸",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "navigation_bar.direct": "Direct messages",
-  "navigation_bar.discover": "Discover",
-  "navigation_bar.domain_blocks": "隱藏的域名",
-  "navigation_bar.edit_profile": "編輯用者資訊",
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "navigation_bar.direct": "私訊",
   "navigation_bar.discover": "探索",
   "navigation_bar.domain_blocks": "隱藏的站點",
   "navigation_bar.edit_profile": "編輯使用者資訊",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "navigation_bar.favourites": "最愛",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "關注請求",
   "navigation_bar.info": "關於本站",
   "navigation_bar.keyboard_shortcuts": "快捷鍵",
   "navigation_bar.lists": "名單",
   "navigation_bar.logout": "登出",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "navigation_bar.mutes": "靜音的使用者",
   "navigation_bar.personal": "個人",
   "navigation_bar.pins": "置頂嘟文",
@@ -240,34 +179,6 @@
   "navigation_bar.public_timeline": "其他站點時間軸",
   "navigation_bar.security": "登入資訊",
   "notification.favourite": "{name}把你的嘟文加入了最愛",
-=======
-<<<<<<< HEAD
-  "navigation_bar.mutes": "消音的使用者",
-  "navigation_bar.personal": "Personal",
-  "navigation_bar.pins": "置頂貼文",
-  "navigation_bar.preferences": "偏好設定",
-  "navigation_bar.public_timeline": "聯盟時間軸",
-  "navigation_bar.security": "Security",
-  "notification.favourite": "{name}收藏了你的狀態",
-=======
-  "navigation_bar.mutes": "靜音的使用者",
-  "navigation_bar.personal": "個人",
-  "navigation_bar.pins": "置頂嘟文",
-  "navigation_bar.preferences": "偏好設定",
-  "navigation_bar.public_timeline": "其他站點時間軸",
-  "navigation_bar.security": "登入資訊",
-  "notification.favourite": "{name}把你的嘟文加入了最愛",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "navigation_bar.mutes": "靜音的使用者",
-  "navigation_bar.personal": "個人",
-  "navigation_bar.pins": "置頂嘟文",
-  "navigation_bar.preferences": "偏好設定",
-  "navigation_bar.public_timeline": "其他站點時間軸",
-  "navigation_bar.security": "登入資訊",
-  "notification.favourite": "{name}把你的嘟文加入了最愛",
->>>>>>> upstream/master
   "notification.follow": "{name}關注了你",
   "notification.mention": "{name}提到了你",
   "notification.reblog": "{name}轉嘟了你的嘟文",
@@ -355,23 +266,6 @@
   "status.mute_conversation": "靜音對話",
   "status.open": "展開嘟文",
   "status.pin": "置頂到個人資訊頁",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "status.pinned": "置頂的推文",
-  "status.reblog": "轉推",
-  "status.reblog_private": "Boost to original audience",
-  "status.reblogged_by": "{name} 轉推了",
-  "status.redraft": "Delete & re-draft",
-  "status.reply": "回應",
-  "status.replyAll": "回應這串",
-  "status.report": "通報 @{name}",
-  "status.sensitive_toggle": "點來看",
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "status.pinned": "置頂嘟文",
   "status.reblog": "轉嘟",
   "status.reblog_private": "轉嘟給原有關注者",
@@ -381,13 +275,6 @@
   "status.replyAll": "回覆所有人",
   "status.report": "檢舉 @{name}",
   "status.sensitive_toggle": "點擊顯示",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "status.sensitive_warning": "敏感內容",
   "status.share": "分享",
   "status.show_less": "減少顯示",
@@ -400,25 +287,8 @@
   "tabs_bar.home": "主頁",
   "tabs_bar.local_timeline": "本站",
   "tabs_bar.notifications": "通知",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "tabs_bar.search": "搜尋",
   "trends.count_by_accounts": "{count} 位使用者在討論",
-=======
-<<<<<<< HEAD
-  "tabs_bar.search": "Search",
-  "timeline.media": "Media",
-  "timeline.posts": "Toots",
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
-=======
-  "tabs_bar.search": "搜尋",
-  "trends.count_by_accounts": "{count} 位使用者在討論",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "tabs_bar.search": "搜尋",
-  "trends.count_by_accounts": "{count} 位使用者在討論",
->>>>>>> upstream/master
   "ui.beforeunload": "如果離開 Mastodon，你的草稿將會不見。",
   "upload_area.title": "拖放來上傳",
   "upload_button.label": "上傳媒體檔案",

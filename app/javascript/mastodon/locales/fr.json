@@ -3,19 +3,7 @@
   "account.block": "Bloquer @{name}",
   "account.block_domain": "Tout masquer venant de {domain}",
   "account.blocked": "Bloqué",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "account.direct": "Envoyer un message direct à @{name}",
-=======
-<<<<<<< HEAD
-  "account.direct": "Message direct à @{name}",
-=======
-  "account.direct": "Envoyer un message direct à @{name}",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "account.direct": "Envoyer un message direct à @{name}",
->>>>>>> upstream/master
   "account.disclaimer_full": "Les données ci-dessous peuvent ne pas refléter ce profil dans sa totalité.",
   "account.domain_blocked": "Domaine caché",
   "account.edit_profile": "Modifier le profil",
@@ -96,23 +84,8 @@
   "confirmations.domain_block.message": "Êtes-vous vraiment, vraiment sûr⋅e de vouloir bloquer {domain} en entier ? Dans la plupart des cas, quelques blocages ou masquages ciblés sont suffisants et préférables. Vous ne verrez plus de contenu provenant de ce domaine ni dans vos lignes de temps publiques, ni dans vos notifications. Vos suiveurs utilisant ce domaine seront retirés.",
   "confirmations.mute.confirm": "Masquer",
   "confirmations.mute.message": "Confirmez-vous le masquage de {name} ?",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "confirmations.redraft.confirm": "Effacer et ré-écrire",
   "confirmations.redraft.message": "Êtes vous sûr de vouloir effacer ce statut pour le ré-écrire ? Vous perdrez toutes ses réponses, ses repartages et ses mises en favori.",
-=======
-<<<<<<< HEAD
-  "confirmations.redraft.confirm": "Delete & redraft",
-  "confirmations.redraft.message": "Are you sure you want to delete this status and re-draft it? You will lose all replies, boosts and favourites to it.",
-=======
-  "confirmations.redraft.confirm": "Effacer et ré-écrire",
-  "confirmations.redraft.message": "Êtes vous sûr de vouloir effacer ce statut pour le ré-écrire ? Vous perdrez toutes ses réponses, ses repartages et ses mises en favori.",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "confirmations.redraft.confirm": "Effacer et ré-écrire",
-  "confirmations.redraft.message": "Êtes vous sûr de vouloir effacer ce statut pour le ré-écrire ? Vous perdrez toutes ses réponses, ses repartages et ses mises en favori.",
->>>>>>> upstream/master
   "confirmations.unfollow.confirm": "Ne plus suivre",
   "confirmations.unfollow.message": "Voulez-vous arrêter de suivre {name} ?",
   "embed.instructions": "Intégrez ce statut à votre site en copiant le code ci-dessous.",
@@ -141,10 +114,6 @@
   "empty_column.public": "Il n’y a rien ici ! Écrivez quelque chose publiquement, ou bien suivez manuellement des personnes d’autres instances pour remplir le fil public",
   "follow_request.authorize": "Accepter",
   "follow_request.reject": "Rejeter",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Développeurs",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Trouver des amis depuis Twitter",
@@ -153,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon est un logiciel libre. Vous pouvez contribuer et envoyer vos commentaires et rapports de bogues via {github} sur GitHub.",
   "getting_started.security": "Sécurité",
   "getting_started.terms": "Conditions d’utilisation",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "Développeurs",
-  "getting_started.documentation": "Documentation",
-  "getting_started.find_friends": "Trouver des amis depuis Twitter",
->>>>>>> upstream/master
-  "getting_started.heading": "Pour commencer",
-  "getting_started.invite": "Inviter des gens",
-  "getting_started.open_source_notice": "Mastodon est un logiciel libre. Vous pouvez contribuer et envoyer vos commentaires et rapports de bogues via {github} sur GitHub.",
-<<<<<<< HEAD
-  "getting_started.terms": "Conditions d’utilisation",
-  "home.column_settings.advanced": "Avancé",
-=======
-  "getting_started.security": "Sécurité",
-  "getting_started.terms": "Conditions d’utilisation",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Basique",
   "home.column_settings.show_reblogs": "Afficher les partages",
   "home.column_settings.show_replies": "Afficher les réponses",
@@ -219,6 +166,7 @@
   "navigation_bar.domain_blocks": "Domaines cachés",
   "navigation_bar.edit_profile": "Modifier le profil",
   "navigation_bar.favourites": "Favoris",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Demandes de suivi",
   "navigation_bar.info": "Plus d’informations",
   "navigation_bar.keyboard_shortcuts": "Raccourcis-clavier",
@@ -306,19 +254,7 @@
   "status.cancel_reblog_private": "Dé-booster",
   "status.cannot_reblog": "Cette publication ne peut être boostée",
   "status.delete": "Effacer",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "status.direct": "Envoyer un message direct à @{name}",
-=======
-<<<<<<< HEAD
-  "status.direct": "Message direct à @{name}",
-=======
-  "status.direct": "Envoyer un message direct à @{name}",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "status.direct": "Envoyer un message direct à @{name}",
->>>>>>> upstream/master
   "status.embed": "Intégrer",
   "status.favourite": "Ajouter aux favoris",
   "status.filtered": "Filtered",
@@ -334,19 +270,7 @@
   "status.reblog": "Partager",
   "status.reblog_private": "Booster vers l'audience originale",
   "status.reblogged_by": "{name} a partagé :",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "status.redraft": "Effacer et ré-écrire",
-=======
-<<<<<<< HEAD
-  "status.redraft": "Delete & re-draft",
-=======
-  "status.redraft": "Effacer et ré-écrire",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "status.redraft": "Effacer et ré-écrire",
->>>>>>> upstream/master
   "status.reply": "Répondre",
   "status.replyAll": "Répondre au fil",
   "status.report": "Signaler @{name}",
@@ -364,21 +288,7 @@
   "tabs_bar.local_timeline": "Fil public local",
   "tabs_bar.notifications": "Notifications",
   "tabs_bar.search": "Chercher",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} discutent",
-=======
-<<<<<<< HEAD
-  "timeline.media": "Media",
-  "timeline.posts": "Pouets",
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
-=======
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} discutent",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} discutent",
->>>>>>> upstream/master
   "ui.beforeunload": "Votre brouillon sera perdu si vous quittez Mastodon.",
   "upload_area.title": "Glissez et déposez pour envoyer",
   "upload_button.label": "Joindre un média",
