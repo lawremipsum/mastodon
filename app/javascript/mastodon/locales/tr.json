@@ -114,10 +114,6 @@
   "empty_column.public": "Burada hiçbir gönderi yok! Herkese açık bir şeyler yazın, veya diğer sunucudaki insanları takip ederek bu alanın dolmasını sağlayın",
   "follow_request.authorize": "Yetkilendir",
   "follow_request.reject": "Reddet",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -126,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon açık kaynaklı bir yazılımdır. Github {github}. {apps} üzerinden katkıda bulunabilir, hata raporlayabilirsiniz.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "Developers",
-  "getting_started.documentation": "Documentation",
-  "getting_started.find_friends": "Find friends from Twitter",
->>>>>>> upstream/master
-  "getting_started.heading": "Başlangıç",
-  "getting_started.invite": "Invite people",
-  "getting_started.open_source_notice": "Mastodon açık kaynaklı bir yazılımdır. Github {github}. {apps} üzerinden katkıda bulunabilir, hata raporlayabilirsiniz.",
-<<<<<<< HEAD
-  "getting_started.terms": "Terms of service",
-  "home.column_settings.advanced": "Gelişmiş",
-=======
-  "getting_started.security": "Security",
-  "getting_started.terms": "Terms of service",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Temel",
   "home.column_settings.show_reblogs": "Boost edilenleri göster",
   "home.column_settings.show_replies": "Cevapları göster",
@@ -192,6 +166,7 @@
   "navigation_bar.domain_blocks": "Hidden domains",
   "navigation_bar.edit_profile": "Profili düzenle",
   "navigation_bar.favourites": "Favoriler",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Takip istekleri",
   "navigation_bar.info": "Genişletilmiş bilgi",
   "navigation_bar.keyboard_shortcuts": "Keyboard shortcuts",
@@ -313,17 +288,6 @@
   "tabs_bar.local_timeline": "Yerel",
   "tabs_bar.notifications": "Bildirimler",
   "tabs_bar.search": "Search",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "Media",
-  "timeline.posts": "Toots",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Your draft will be lost if you leave Mastodon.",
   "upload_area.title": "Upload için sürükle bırak yapınız",

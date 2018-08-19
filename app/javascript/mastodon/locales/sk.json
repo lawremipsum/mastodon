@@ -16,19 +16,7 @@
   "account.mention": "Spomeň @{name}",
   "account.moved_to": "{name} sa presunul/a na:",
   "account.mute": "Ignorovať @{name}",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "account.mute_notifications": "Stĺmiť oboznámenia od @{name}",
-=======
-<<<<<<< HEAD
-  "account.mute_notifications": "Stĺmiť oznámenia od @{name}",
-=======
-  "account.mute_notifications": "Stĺmiť oboznámenia od @{name}",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "account.mute_notifications": "Stĺmiť oboznámenia od @{name}",
->>>>>>> upstream/master
   "account.muted": "Utíšený/á",
   "account.posts": "Hlášky",
   "account.posts_with_replies": "Príspevky s odpoveďami",
@@ -60,23 +48,8 @@
   "column.home": "Domov",
   "column.lists": "Zoznamy",
   "column.mutes": "Ignorovaní užívatelia",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "column.notifications": "Oboznámenia",
   "column.pins": "Pripnuté príspevky",
-=======
-<<<<<<< HEAD
-  "column.notifications": "Oznámenia",
-  "column.pins": "Pripnuté tooty",
-=======
-  "column.notifications": "Oboznámenia",
-  "column.pins": "Pripnuté príspevky",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "column.notifications": "Oboznámenia",
-  "column.pins": "Pripnuté príspevky",
->>>>>>> upstream/master
   "column.public": "Federovaná časová os",
   "column_back_button.label": "Späť",
   "column_header.hide_settings": "Skryť nastavenia",
@@ -138,31 +111,6 @@
   "empty_column.home.public_timeline": "verejná časová os",
   "empty_column.list": "Tento zoznam je ešte prázdny. Keď ale členovia tohoto zoznamu napíšu nové správy, tak tie sa objavia priamo tu.",
   "empty_column.notifications": "Nemáš ešte žiadne oznámenia. Zapoj sa s niekym do debaty a komunikuj s ostatnými aby diskusia mohla začať.",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  "empty_column.public": "Ešte tu nič nie je. Napíš niečo verejne alebo začnite sledovať užívateľov z iných Mastodon serverov, aby tu tak niečo pribudlo",
-=======
-<<<<<<< HEAD
-  "empty_column.public": "Ešte tu nič nie je. Napíš niečo verejne alebo začnite sledovať používateľov z iných Mastodon serverov aby tu niečo pribudlo",
->>>>>>> Stashed changes
-=======
-  "empty_column.public": "Ešte tu nič nie je. Napíš niečo verejne alebo začnite sledovať užívateľov z iných Mastodon serverov, aby tu tak niečo pribudlo",
->>>>>>> upstream/master
-  "follow_request.authorize": "Povoľ prístup",
-  "follow_request.reject": "Odmietni",
-  "getting_started.developers": "Vývojári",
-  "getting_started.documentation": "Dokumentácia",
-  "getting_started.find_friends": "Nájdi priateľov z Twitteru",
-  "getting_started.heading": "Začni tu",
-  "getting_started.invite": "Pozvať ľudí",
-  "getting_started.open_source_notice": "Mastodon je softvér s otvoreným kódom. Nahlásiť chyby, alebo prispievať môžeš na GitHube v {github}.",
-  "getting_started.security": "Zabezpečenie",
-  "getting_started.terms": "Podmienky prevozu",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-  "home.column_settings.advanced": "Pokročilé",
-=======
   "empty_column.public": "Ešte tu nič nie je. Napíš niečo verejne alebo začnite sledovať užívateľov z iných Mastodon serverov, aby tu tak niečo pribudlo",
   "follow_request.authorize": "Povoľ prístup",
   "follow_request.reject": "Odmietni",
@@ -174,10 +122,6 @@
   "getting_started.open_source_notice": "Mastodon je softvér s otvoreným kódom. Nahlásiť chyby, alebo prispievať môžeš na GitHube v {github}.",
   "getting_started.security": "Zabezpečenie",
   "getting_started.terms": "Podmienky prevozu",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Základné",
   "home.column_settings.show_reblogs": "Zobraziť povýšené",
   "home.column_settings.show_replies": "Ukázať odpovede",
@@ -222,6 +166,7 @@
   "navigation_bar.domain_blocks": "Skryté domény",
   "navigation_bar.edit_profile": "Upraviť profil",
   "navigation_bar.favourites": "Obľúbené",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Žiadosti o sledovanie",
   "navigation_bar.info": "O tomto Mastodon serveri",
   "navigation_bar.keyboard_shortcuts": "Klávesové skratky",
@@ -325,19 +270,7 @@
   "status.reblog": "Povýšiť",
   "status.reblog_private": "Povýš k pôvodnému publiku",
   "status.reblogged_by": "{name} povýšil/a",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "status.redraft": "Vymaž a prepíš",
-=======
-<<<<<<< HEAD
-  "status.redraft": "Delete & re-draft",
-=======
-  "status.redraft": "Vymaž a prepíš",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "status.redraft": "Vymaž a prepíš",
->>>>>>> upstream/master
   "status.reply": "Odpovedať",
   "status.replyAll": "Odpovedať na diskusiu",
   "status.report": "Nahlásiť @{name}",
@@ -355,29 +288,9 @@
   "tabs_bar.local_timeline": "Lokálna",
   "tabs_bar.notifications": "Notifikácie",
   "tabs_bar.search": "Hľadaj",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   "trends.count_by_accounts": "{count} {rawCount, viacerí, jeden {person} iní {people}} diskutujú",
   "ui.beforeunload": "Čo máš rozpísané sa stratí, ak opustíš Mastodon.",
   "upload_area.title": "Pretiahni a pusť pre nahratie",
-=======
-<<<<<<< HEAD
-  "timeline.media": "Média",
-  "timeline.posts": "Príspevky",
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
-  "ui.beforeunload": "Čo máte rozpísané sa stratí, ak opustíte Mastodon.",
-  "upload_area.title": "Ťahaj a pusti pre nahratie",
-=======
-  "trends.count_by_accounts": "{count} {rawCount, viacerí, jeden {person} iní {people}} diskutujú",
-  "ui.beforeunload": "Čo máš rozpísané sa stratí, ak opustíš Mastodon.",
-  "upload_area.title": "Pretiahni a pusť pre nahratie",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-  "trends.count_by_accounts": "{count} {rawCount, viacerí, jeden {person} iní {people}} diskutujú",
-  "ui.beforeunload": "Čo máš rozpísané sa stratí, ak opustíš Mastodon.",
-  "upload_area.title": "Pretiahni a pusť pre nahratie",
->>>>>>> upstream/master
   "upload_button.label": "Pridať médiá",
   "upload_form.description": "Opis pre slabo vidiacich",
   "upload_form.focus": "Vystrihni",

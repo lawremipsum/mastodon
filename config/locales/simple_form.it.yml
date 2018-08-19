@@ -43,6 +43,7 @@ it:
 >>>>>>> Stashed changes
 =======
         phrase: Il confronto sarà eseguito ignorando minuscole/maiuscole e i content warning
+        scopes: A quali API l'applicazione potrà avere accesso. Se selezionate un ambito di alto livello, non c'è bisogno di selezionare quelle singole.
         setting_default_language: La lingua dei tuoi toot può essere individuata automaticamente, ma il risultato non è sempre accurato
 >>>>>>> upstream/master
         setting_hide_network: Chi segui e chi segue te non saranno mostrati sul tuo profilo

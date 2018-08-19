@@ -639,7 +639,6 @@
       {
         "defaultMessage": "Media Only",
         "id": "community.column_settings.media_only"
-<<<<<<< HEAD
       }
     ],
     "path": "app/javascript/mastodon/features/community_timeline/components/column_settings.json"
@@ -647,49 +646,10 @@
   {
     "descriptors": [
       {
-<<<<<<< Updated upstream
         "defaultMessage": "Local timeline",
         "id": "column.community"
-=======
-<<<<<<< HEAD
-        "defaultMessage": "Toots",
-        "id": "timeline.posts"
->>>>>>> Stashed changes
       },
       {
-        "defaultMessage": "The local timeline is empty. Write something publicly to get the ball rolling!",
-        "id": "empty_column.community"
-=======
->>>>>>> upstream/master
-      }
-    ],
-    "path": "app/javascript/mastodon/features/community_timeline/index.json"
-  },
-  {
-    "descriptors": [
-      {
-<<<<<<< Updated upstream
-        "defaultMessage": "Edit profile",
-        "id": "account.edit_profile"
-=======
-        "defaultMessage": "Local timeline",
-        "id": "column.community"
-=======
-        "defaultMessage": "Local timeline",
-        "id": "column.community"
->>>>>>> Stashed changes
-      },
-      {
-<<<<<<< HEAD
-        "defaultMessage": "Pinned toots",
-        "id": "navigation_bar.pins"
-      },
-      {
-        "defaultMessage": "Preferences",
-        "id": "navigation_bar.preferences"
-      },
-      {
-=======
         "defaultMessage": "The local timeline is empty. Write something publicly to get the ball rolling!",
         "id": "empty_column.community"
       }
@@ -705,50 +665,6 @@
       {
         "defaultMessage": "Pinned toots",
         "id": "navigation_bar.pins"
-      },
-      {
-        "defaultMessage": "Preferences",
-        "id": "navigation_bar.preferences"
-      },
-      {
->>>>>>> upstream/master
-        "defaultMessage": "Follow requests",
-        "id": "navigation_bar.follow_requests"
-      },
-      {
-        "defaultMessage": "Favourites",
-        "id": "navigation_bar.favourites"
-      },
-      {
-        "defaultMessage": "Lists",
-        "id": "navigation_bar.lists"
-      },
-      {
-        "defaultMessage": "Blocked users",
-        "id": "navigation_bar.blocks"
-      },
-      {
-        "defaultMessage": "Hidden domains",
-        "id": "navigation_bar.domain_blocks"
-      },
-      {
-        "defaultMessage": "Muted users",
-        "id": "navigation_bar.mutes"
-      }
-    ],
-    "path": "app/javascript/mastodon/features/compose/components/action_bar.json"
-<<<<<<< HEAD
-  },
-  {
-    "descriptors": [
-      {
-        "defaultMessage": "Edit profile",
-        "id": "account.edit_profile"
-      },
-      {
-        "defaultMessage": "Pinned toots",
-        "id": "navigation_bar.pins"
->>>>>>> upstream/master
       },
       {
         "defaultMessage": "Preferences",
@@ -777,11 +693,13 @@
       {
         "defaultMessage": "Muted users",
         "id": "navigation_bar.mutes"
+      },
+      {
+        "defaultMessage": "Muted words",
+        "id": "navigation_bar.filters"
       }
     ],
     "path": "app/javascript/mastodon/features/compose/components/action_bar.json"
-=======
->>>>>>> upstream/master
   },
   {
     "descriptors": [
@@ -1229,14 +1147,6 @@
         "id": "getting_started.heading"
       },
       {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
         "defaultMessage": "Find friends from Twitter",
         "id": "getting_started.find_friends"
       },
@@ -1245,36 +1155,10 @@
         "id": "getting_started.invite"
       },
       {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
         "defaultMessage": "Hotkeys",
         "id": "navigation_bar.keyboard_shortcuts"
       },
       {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
-        "defaultMessage": "Security",
-        "id": "getting_started.security"
-      },
-      {
->>>>>>> upstream/master
-        "defaultMessage": "About this instance",
-        "id": "navigation_bar.info"
-      },
-      {
-        "defaultMessage": "Terms of service",
-        "id": "getting_started.terms"
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
         "defaultMessage": "Security",
         "id": "getting_started.security"
       },
@@ -1289,20 +1173,8 @@
       {
         "defaultMessage": "Developers",
         "id": "getting_started.developers"
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
       },
       {
-=======
-      },
-      {
-        "defaultMessage": "Developers",
-        "id": "getting_started.developers"
-      },
-      {
->>>>>>> upstream/master
         "defaultMessage": "Documentation",
         "id": "getting_started.documentation"
       },

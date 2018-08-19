@@ -114,10 +114,6 @@
   "empty_column.public": "Jelenleg semmi nincs itt! Írj valamit publikusan vagy kövess más szervereken levő felhasználókat, hogy megtöltsd",
   "follow_request.authorize": "Engedélyez",
   "follow_request.reject": "Visszautasít",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -126,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon egy nyílt forráskódú szoftver. Hozzájárulás vagy problémák jelentése a GitHub-on {github}.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "Developers",
-  "getting_started.documentation": "Documentation",
-  "getting_started.find_friends": "Find friends from Twitter",
->>>>>>> upstream/master
-  "getting_started.heading": "Első lépések",
-  "getting_started.invite": "Invite people",
-  "getting_started.open_source_notice": "Mastodon egy nyílt forráskódú szoftver. Hozzájárulás vagy problémák jelentése a GitHub-on {github}.",
-<<<<<<< HEAD
-  "getting_started.terms": "Terms of service",
-  "home.column_settings.advanced": "Fejlett",
-=======
-  "getting_started.security": "Security",
-  "getting_started.terms": "Terms of service",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Alap",
   "home.column_settings.show_reblogs": "Ismétlések mutatása",
   "home.column_settings.show_replies": "Válaszok mutatása",
@@ -192,6 +166,7 @@
   "navigation_bar.domain_blocks": "Hidden domains",
   "navigation_bar.edit_profile": "Profil szerkesztése",
   "navigation_bar.favourites": "Kedvencek",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Követési kérések",
   "navigation_bar.info": "Ezen szerverről",
   "navigation_bar.keyboard_shortcuts": "Gyorsbillentyűk",
@@ -313,17 +288,6 @@
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Értesítések",
   "tabs_bar.search": "Search",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "Media",
-  "timeline.posts": "Toots",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "A piszkozata el fog vesztődni ha elhagyja Mastodon-t.",
   "upload_area.title": "Húzza ide a feltöltéshez",

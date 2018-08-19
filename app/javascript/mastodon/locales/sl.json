@@ -114,10 +114,6 @@
   "empty_column.public": "Tukaj ni ničesar! Da ga napolnite, napišite nekaj javnega ali pa ročno sledite uporabnikom iz drugih vozlišč",
   "follow_request.authorize": "Odobri",
   "follow_request.reject": "Zavrni",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
   "getting_started.developers": "Developers",
   "getting_started.documentation": "Documentation",
   "getting_started.find_friends": "Find friends from Twitter",
@@ -126,28 +122,6 @@
   "getting_started.open_source_notice": "Mastodon je odprtokodna programska oprema. V GitHubu na {github} lahko prispevate ali poročate o napakah.",
   "getting_started.security": "Security",
   "getting_started.terms": "Terms of service",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-  "getting_started.documentation": "Documentation",
-=======
-  "getting_started.developers": "Developers",
-  "getting_started.documentation": "Documentation",
-  "getting_started.find_friends": "Find friends from Twitter",
->>>>>>> upstream/master
-  "getting_started.heading": "Prvi koraki",
-  "getting_started.invite": "Invite people",
-  "getting_started.open_source_notice": "Mastodon je odprtokodna programska oprema. V GitHubu na {github} lahko prispevate ali poročate o napakah.",
-<<<<<<< HEAD
-  "getting_started.terms": "Terms of service",
-  "home.column_settings.advanced": "Napredno",
-=======
-  "getting_started.security": "Security",
-  "getting_started.terms": "Terms of service",
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "home.column_settings.basic": "Osnovno",
   "home.column_settings.show_reblogs": "Pokaži sunke",
   "home.column_settings.show_replies": "Pokaži odgovore",
@@ -192,6 +166,7 @@
   "navigation_bar.domain_blocks": "Hidden domains",
   "navigation_bar.edit_profile": "Edit profile",
   "navigation_bar.favourites": "Favourites",
+  "navigation_bar.filters": "Muted words",
   "navigation_bar.follow_requests": "Follow requests",
   "navigation_bar.info": "O tem vozlišču",
   "navigation_bar.keyboard_shortcuts": "Keyboard shortcuts",
@@ -313,17 +288,6 @@
   "tabs_bar.local_timeline": "Lokalno",
   "tabs_bar.notifications": "Obvestila",
   "tabs_bar.search": "Poišči",
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  "timeline.media": "Media",
-  "timeline.posts": "Toots",
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
   "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} talking",
   "ui.beforeunload": "Vaš osnutek bo izgubljen, če zapustite Mastodona.",
   "upload_area.title": "Povlecite in spustite za pošiljanje",

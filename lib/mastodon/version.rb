@@ -13,19 +13,7 @@ module Mastodon
     end
 
     def patch
-<<<<<<< HEAD
-<<<<<<< Updated upstream
       3
-=======
-<<<<<<< HEAD
-      1
-=======
-      3
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-      3
->>>>>>> upstream/master
     end
 
     def pre
@@ -33,19 +21,7 @@ module Mastodon
     end
 
     def flags
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-      'rc2'
-=======
-<<<<<<< HEAD
-      'rc4'
-=======
-      'rc2'
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-      'rc2'
->>>>>>> upstream/master
+      ''
     end
 
     def to_a
