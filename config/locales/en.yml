@@ -453,15 +453,15 @@ en:
     warning_html: Only deletion of content from this particular instance is guaranteed. Content that has been widely shared is likely to leave traces. Offline servers and servers that have unsubscribed from your updates will not update their databases.
     warning_title: Disseminated content availability
   errors:
-    '403': You don't have permission to view this page.
-    '404': The page you were looking for doesn't exist.
-    '410': The page you were looking for doesn't exist anymore.
+    '403': Ope! You don't have permission to view this page.
+    '404': Ope! The page you were looking for doesn't exist.
+    '410': Ope! The page you were looking for doesn't exist anymore.
     '422':
       content: Security verification failed. Are you blocking cookies?
       title: Security verification failed
     '429': Throttled
     '500':
-      content: We're sorry, but something went wrong on our end.
+      content: Ope! We're sorry, but something went wrong on our end.
       title: This page is not correct
     noscript_html: To use the Mastodon web application, please enable JavaScript. Alternatively, try one of the <a href="https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md">native apps</a> for Mastodon for your platform.
   exports:
