@@ -200,14 +200,6 @@ module AccountInteractions
     lists.joins(account: :user)
          .where('users.current_sign_in_at > ?', User::ACTIVE_DURATION.ago)
   end
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
 
   private
 
@@ -215,11 +207,4 @@ module AccountInteractions
     PotentialFriendshipTracker.remove(id, other_account.id)
     PotentialFriendshipTracker.remove(other_account.id, id) if mutual
   end
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
->>>>>>> upstream/master
 end
