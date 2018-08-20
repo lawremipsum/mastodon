@@ -424,19 +424,15 @@ zh-HK:
     following: 成功！你正在關注：
     post_follow:
       close: 你也可以直接關閉這個頁面。
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
       return: 顯示個人資料頁
-=======
-<<<<<<< HEAD
+
       return: 返回至個人資料頁
-=======
+
       return: 顯示個人資料頁
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
+
       return: 顯示個人資料頁
->>>>>>> upstream/master
+
       web: 返回本站
     title: 關注 %{acct}
   datetime:

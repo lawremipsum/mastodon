@@ -403,23 +403,19 @@ sk:
     delete_account: Vymazať účet
     delete_account_html: Pokiaľ chceš vymazať svoj účet, môžeš tak <a href="%{path}">urobiť tu</a>. Budeš požiadaný/á o potvrdenie tohto kroku.
     didnt_get_confirmation: Neobdŕžal/a si kroky pre potvrdenie?
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     forgot_password: Zabudnuté heslo?
     invalid_reset_password_token: Token na obnovu hesla vypršal. Prosím vypítaj si nový.
-=======
-<<<<<<< HEAD
+
     forgot_password: Zabudli ste heslo?
     invalid_reset_password_token: Token na obnovu hesla vypršal. Prosím vypítajte si nový.
-=======
+
     forgot_password: Zabudnuté heslo?
     invalid_reset_password_token: Token na obnovu hesla vypršal. Prosím vypítaj si nový.
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
+
     forgot_password: Zabudnuté heslo?
     invalid_reset_password_token: Token na obnovu hesla vypršal. Prosím vypítaj si nový.
->>>>>>> upstream/master
+
     login: Prihlás sa
     logout: Odhlás sa
     migrate_account: Presunúť sa na iný účet
@@ -442,25 +438,12 @@ sk:
     follow_request: 'Poslali ste požiadavku následovať užívateľa:'
     following: 'Podarilo sa! Teraz už následujete užívateľa:'
     post_follow:
-      close: Alebo môžete iba zatvoriť toto okno.
+      close: Alebo môžete iba zatvoriť toto okno
       return: Ukáž užívateľov profil
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
       web: Prejdi do siete
     title: Následuj %{acct}
-=======
-<<<<<<< HEAD
-      web: Ísť na web
-    title: Následovať %{acct}
-=======
-      web: Prejdi do siete
-    title: Následuj %{acct}
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-      web: Prejdi do siete
-    title: Následuj %{acct}
->>>>>>> upstream/master
+
   datetime:
     distance_in_words:
       about_x_hours: "%{count}hod"
