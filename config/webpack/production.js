@@ -91,26 +91,8 @@ module.exports = merge(sharedConfig, {
         ],
       },
       externals: [
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< b30c2438145d3919ac9eb43f55432bb6a6d4d87f
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
         '/emoji/1f3a8.svg', // used for emoji picker dropdown
-        '/emoji/sheet.png', // used in emoji-mart
-=======
-        '/emoji/1f602.svg', // used for emoji picker dropdown
         '/emoji/sheet_10.png', // used in emoji-mart
-<<<<<<< Updated upstream
->>>>>>> Rename emoji sheet to avoid caching issue (#7777)
-=======
->>>>>>> upstream/master
->>>>>>> Stashed changes
-=======
-        '/emoji/1f602.svg', // used for emoji picker dropdown
-        '/emoji/sheet_10.png', // used in emoji-mart
->>>>>>> upstream/master
       ],
       excludes: [
         '**/*.gz',
