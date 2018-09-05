@@ -10,6 +10,7 @@ import { autoPlayGif, displaySensitiveMedia } from '../initial_state';
 
 const messages = defineMessages({
   toggle_visible: { id: 'media_gallery.toggle_visible', defaultMessage: 'Toggle visibility' },
+  described: { id: 'media_gallery.described', defaultMessage: 'Media descriptions present' },
 });
 
 class Item extends React.PureComponent {
@@ -231,6 +232,21 @@ export default class MediaGallery extends React.PureComponent {
     const { media, intl, sensitive, height } = this.props;
     const { width, visible } = this.state;
 
+    let described = [];
+    if (media.take(4).some((attachment, i) => attachment.get("description"))) {
+      const fontSize = 18;
+      const describedIconStyle = {
+        fontSize: `${fontSize}px`,
+        width: `${fontSize * 1.28571429}px`,
+        height: `${fontSize * 1.28571429}px`,
+        lineHeight: `${fontSize}px`,
+      };
+      described = (<div className='media-gallery__described' title={intl.formatMessage(messages.described)} aria-hidden='true'>
+          <div className='media-gallery__described-icon-wrapper' style={describedIconStyle}><i className='fa fa-fw fa-universal-access' /></div>
+        </div>
+      );
+    }
+
     let children;
 
     const style = {};
@@ -275,6 +291,8 @@ export default class MediaGallery extends React.PureComponent {
         <div className={classNames('spoiler-button', { 'spoiler-button--visible': visible })}>
           <IconButton title={intl.formatMessage(messages.toggle_visible)} icon={visible ? 'eye' : 'eye-slash'} overlay onClick={this.handleOpen} />
         </div>
+
+        {described}
 
         {children}
       </div>
