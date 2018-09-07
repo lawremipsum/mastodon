@@ -10,7 +10,7 @@ import { autoPlayGif, displaySensitiveMedia } from '../initial_state';
 
 const messages = defineMessages({
   toggle_visible: { id: 'media_gallery.toggle_visible', defaultMessage: 'Toggle visibility' },
-  described: { id: 'media_gallery.described', defaultMessage: 'Media descriptions present' },
+  described: { id: 'media_gallery.described', defaultMessage: 'Media description present' },
 });
 
 class Item extends React.PureComponent {
