@@ -161,9 +161,9 @@ ActiveRecord::Schema.define(version: 2018_08_20_232245) do
     t.text "phrase", default: "", null: false
     t.string "context", default: [], null: false, array: true
     t.boolean "irreversible", default: false, null: false
-    t.boolean "whole_word", default: true, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.boolean "whole_word", default: true, null: false
     t.index ["account_id"], name: "index_custom_filters_on_account_id"
   end
 

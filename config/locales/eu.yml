@@ -30,8 +30,9 @@ eu:
     other_instances: Instantzien zerrenda
     privacy_policy: Pribatutasun politika
     source_code: Iturburu kodea
-    status_count_after: mezu idatzi dituzte
-
+    status_count_after:
+      one: mezu
+      other: mezu
     status_count_before: Hauek
     terms: Erabilera baldintzak
     user_count_after:
