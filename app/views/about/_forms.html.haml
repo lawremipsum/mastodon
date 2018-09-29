@@ -1,7 +1,7 @@
 - if @instance_presenter.open_registrations
   = render 'registration'
 - else
-  = link_to t('auth.register_elsewhere'), 'https://joinmastodon.org', class: 'button button-primary'
+  = link_to 'Request an invitation', 'mailto:lawremipsum+mspsocialabout@gmail.com?subject=I%20would%20like%20to%20join%20mspsocial.net', class: 'button button-primary'
 
   .closed-registrations-message
     - if @instance_presenter.closed_registrations_message.blank?
