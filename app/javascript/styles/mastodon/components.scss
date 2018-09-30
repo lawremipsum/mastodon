@@ -2923,6 +2923,13 @@ a.status-card {
   }
 }
 
+.media-gallery__described {
+  position: absolute;
+  top: 4px;
+  left: 35px;
+  z-index: 100;
+}
+
 .modal-container--preloader {
   background: lighten($ui-base-color, 8%);
 }
