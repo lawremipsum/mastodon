@@ -237,7 +237,8 @@ export default class MediaGallery extends React.PureComponent {
     if (media.take(4).some((attachment, i) => attachment.get("description"))) {
       described = (
         <div className='media-gallery__described' aria-hidden='true'>
-          <IconButton title={intl.formatMessage(messages.described)} icon='universal-access' overlay />
+          <IconButton title={intl.formatMessage(messages.described)} onClick={this.handleOpen} icon='universal-access' overlay />
+          
         </div>
       );
     }
