@@ -3,7 +3,11 @@
 require 'ipaddr'
 require 'socket'
 require 'resolv'
+<<<<<<< 53457c5d6985dc75e6e8ddd9c50b5ab8bf2d3bd1
+<<<<<<< 3c033c4352f8b156887cd7157b4a89c23a545838
+=======
 <<<<<<< 00862dcaff7cb918d29947accda1c01873a7ddeb
+>>>>>>> Fix connect timeout not being enforced (#9329)
 
 # Monkey-patch the HTTP.rb timeout class to avoid using a timeout block
 # around the Socket#open method, since we use our own timeout blocks inside
@@ -108,7 +112,11 @@ class Request
   end
 
   def timeout
+<<<<<<< 53457c5d6985dc75e6e8ddd9c50b5ab8bf2d3bd1
+<<<<<<< 3c033c4352f8b156887cd7157b4a89c23a545838
+=======
 <<<<<<< 00862dcaff7cb918d29947accda1c01873a7ddeb
+>>>>>>> Fix connect timeout not being enforced (#9329)
     # We enforce a 1s timeout on DNS resolving, 10s timeout on socket opening
     # and 5s timeout on the TLS handshake, meaning the worst case should take
     # about 16s in total
@@ -184,7 +192,11 @@ class Request
           end
         end
 
+<<<<<<< 53457c5d6985dc75e6e8ddd9c50b5ab8bf2d3bd1
+<<<<<<< 3c033c4352f8b156887cd7157b4a89c23a545838
+=======
 <<<<<<< 00862dcaff7cb918d29947accda1c01873a7ddeb
+>>>>>>> Fix connect timeout not being enforced (#9329)
         if outer_e
           raise outer_e
         else

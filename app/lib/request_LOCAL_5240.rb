@@ -3,7 +3,6 @@
 require 'ipaddr'
 require 'socket'
 require 'resolv'
-<<<<<<< 00862dcaff7cb918d29947accda1c01873a7ddeb
 
 # Monkey-patch the HTTP.rb timeout class to avoid using a timeout block
 # around the Socket#open method, since we use our own timeout blocks inside
@@ -14,8 +13,6 @@ class HTTP::Timeout::PerOperation
     @socket.setsockopt(Socket::IPPROTO_TCP, Socket::TCP_NODELAY, 1) if nodelay
   end
 end
-=======
->>>>>>> Fix connect timeout not being enforced (#9329)
 
 class Request
   REQUEST_TARGET = '(request-target)'
@@ -108,15 +105,11 @@ class Request
   end
 
   def timeout
-<<<<<<< 00862dcaff7cb918d29947accda1c01873a7ddeb
     # We enforce a 1s timeout on DNS resolving, 10s timeout on socket opening
     # and 5s timeout on the TLS handshake, meaning the worst case should take
     # about 16s in total
 
     { connect: 5, read: 10, write: 10 }
-=======
-    { connect: nil, read: 10, write: 10 }
->>>>>>> Fix connect timeout not being enforced (#9329)
   end
 
   def http_client
@@ -184,15 +177,11 @@ class Request
           end
         end
 
-<<<<<<< 00862dcaff7cb918d29947accda1c01873a7ddeb
         if outer_e
           raise outer_e
         else
           raise SocketError, "No address for #{host}"
         end
-=======
-        raise outer_e if outer_e
->>>>>>> Fix connect timeout not being enforced (#9329)
       end
 
       alias new open
