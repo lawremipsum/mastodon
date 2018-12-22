@@ -41,7 +41,7 @@ export function showAlertForError(error) {
       message = data.error;
     }
 
-    return showAlert(title, `Ope! ${message}`);
+    return showAlert('Ope!', `${title}: ${message}`);
   } else {
     console.error(error);
     return showAlert(messages.unexpectedTitle, messages.unexpectedMessage);
