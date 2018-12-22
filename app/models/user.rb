@@ -73,7 +73,7 @@ class User < ApplicationRecord
 
   validates :locale, inclusion: I18n.available_locales.map(&:to_s), if: :locale?
   validates_with BlacklistedEmailValidator, if: :email_changed?
-  validates_with EmailMxValidator, if: :email_changed?
+  validates_with EmailMxValidator, if: :validate_email_dns?
 
   scope :recent, -> { order(id: :desc) }
   scope :admins, -> { where(admin: true) }
@@ -83,7 +83,6 @@ class User < ApplicationRecord
   scope :inactive, -> { where(arel_table[:current_sign_in_at].lt(ACTIVE_DURATION.ago)) }
   scope :active, -> { confirmed.where(arel_table[:current_sign_in_at].gteq(ACTIVE_DURATION.ago)).joins(:account).where(accounts: { suspended: false }) }
   scope :matches_email, ->(value) { where(arel_table[:email].matches("#{value}%")) }
-  scope :with_recent_ip_address, ->(value) { where(arel_table[:current_sign_in_ip].eq(value).or(arel_table[:last_sign_in_ip].eq(value))) }
 
   before_validation :sanitize_languages
 
@@ -96,7 +95,7 @@ class User < ApplicationRecord
 
   delegate :auto_play_gif, :default_sensitive, :unfollow_modal, :boost_modal, :delete_modal,
            :reduce_motion, :system_font_ui, :noindex, :theme, :display_media, :hide_network,
-           :expand_spoilers, :default_language, to: :settings, prefix: :setting, allow_nil: false
+           :expand_spoilers, :default_language, :aggregate_reblogs, to: :settings, prefix: :setting, allow_nil: false
 
   attr_reader :invite_code
 
@@ -232,6 +231,10 @@ class User < ApplicationRecord
     @hides_network ||= settings.hide_network
   end
 
+  def aggregates_reblogs?
+    @aggregates_reblogs ||= settings.aggregate_reblogs
+  end
+
   def token_for_app(a)
     return nil if a.nil? || a.owner != self
     Doorkeeper::AccessToken
@@ -356,5 +359,9 @@ class User < ApplicationRecord
 
   def needs_feed_update?
     last_sign_in_at < ACTIVE_DURATION.ago
+  end
+
+  def validate_email_dns?
+    email_changed? && !(Rails.env.test? || Rails.env.development?)
   end
 end
