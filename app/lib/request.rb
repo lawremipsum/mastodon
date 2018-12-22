@@ -105,7 +105,7 @@ class Request
   end
 
   def timeout
-    # We enforce a 1s timeout on DNS resolving, 10s timeout on socket opening
+    { connect: nil, read: 10, write: 10 }
     # and 5s timeout on the TLS handshake, meaning the worst case should take
     # about 16s in total
 
