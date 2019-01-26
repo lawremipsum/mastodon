@@ -654,7 +654,7 @@ PLATFORMS
 DEPENDENCIES
   active_model_serializers (~> 0.10)
   active_record_query_trace (~> 1.5)
-  addressable (~> 2.5)
+  addressable (~> 2.6)
   annotate (~> 2.7)
   aws-sdk-s3 (~> 1.30)
   better_errors (~> 2.5)

@@ -90,6 +90,7 @@
     "postcss-loader": "^3.0.0",
     "postcss-object-fit-images": "^1.1.2",
     "prop-types": "^15.5.10",
+    "puma": "^4.0.0",
     "punycode": "^2.1.0",
     "rails-ujs": "^5.2.2",
     "react": "^16.7.0",
@@ -115,7 +116,12 @@
     "redux": "^4.0.1",
     "redux-immutable": "^4.0.0",
     "redux-thunk": "^2.2.0",
+<<<<<<< HEAD
+    "rellax": "^1.7.1",
+    "request": "^2.34",
+=======
     "rellax": "^1.7.2",
+>>>>>>> instance_only_statuses
     "requestidlecallback": "^0.3.0",
     "reselect": "^4.0.0",
     "rimraf": "^2.6.3",
