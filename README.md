@@ -57,9 +57,10 @@ Private posts, locked accounts, phrase filtering, muting, blocking and all sorts
 
 Mastodon acts as an OAuth2 provider so 3rd party apps can use the REST and Streaming APIs, resulting in a rich app ecosystem with a lot of choice!
 
-**MSP Social has implemented the following features that are not in the official Mastodon codebase:
+**MSP Social has implemented the following features that are not in the official Mastodon codebase:**
 
 Local-only toots
+Described-image indicator icon
 "Request an invitation" button
 500 character bios
 Minnesota-flavored error messages
