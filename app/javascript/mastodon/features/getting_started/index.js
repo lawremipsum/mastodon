@@ -89,10 +89,10 @@ class GettingStarted extends ImmutablePureComponent {
         <ColumnSubheading key={i++} text={intl.formatMessage(messages.discover)} />,
         <ColumnLink key={i++} icon='users' text={intl.formatMessage(messages.community_timeline)} to='/timelines/public/local' />,
         <ColumnLink key={i++} icon='globe' text={intl.formatMessage(messages.public_timeline)} to='/timelines/public' />,
-        <ColumnLink key={i++} icon='calendar' text={intl.formatMessage(messages.community_calendar)} to='https://cloud.bancars.club/index.php/apps/calendar/p/pF7pKyModNDBQS2M/MSPSocial' />,
+        <ColumnLink key={i++} icon='calendar' text={intl.formatMessage(messages.community_calendar)} href='https://cloud.bancars.club/index.php/apps/calendar/p/pF7pKyModNDBQS2M/MSPSocial' />,
       );
 
-      height += 34 + 48*2;
+      height += 34 + 48*3;
 
       if (profile_directory) {
         navItems.push(
