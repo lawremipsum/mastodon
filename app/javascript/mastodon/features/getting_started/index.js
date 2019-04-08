@@ -82,14 +82,13 @@ class GettingStarted extends ImmutablePureComponent {
 
     const navItems = [];
     let i = 1;
-    let height = (multiColumn) ? 0 : 60;
+    let height = (multiColumn) ? 0 : 30;
 
     if (multiColumn) {
       navItems.push(
         <ColumnSubheading key={i++} text={intl.formatMessage(messages.discover)} />,
         <ColumnLink key={i++} icon='users' text={intl.formatMessage(messages.community_timeline)} to='/timelines/public/local' />,
         <ColumnLink key={i++} icon='globe' text={intl.formatMessage(messages.public_timeline)} to='/timelines/public' />,
-        <ColumnLink key={i++} icon='calendar' text={intl.formatMessage(messages.community_calendar)} href='https://cloud.bancars.club/index.php/apps/calendar/p/pF7pKyModNDBQS2M/MSPSocial' />,
       );
 
       height += 34 + 48*3;
