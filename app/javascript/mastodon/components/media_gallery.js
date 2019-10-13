@@ -307,16 +307,6 @@ class MediaGallery extends React.PureComponent {
       described = (
         <div className='media-gallery__described' aria-hidden='true'>
           <IconButton title={intl.formatMessage(messages.described)} onClick={this.handleOpen} icon='universal-access' overlay />
-          
-      const fontSize = 18;
-      const describedIconStyle = {
-        fontSize: `${fontSize}px`,
-        width: `${fontSize * 1.28571429}px`,
-        height: `${fontSize * 1.28571429}px`,
-        lineHeight: `${fontSize}px`,
-      };
-      described = (<div className='media-gallery__described' title={intl.formatMessage(messages.described)} aria-hidden='true'>
-          <div className='media-gallery__described-icon-wrapper' style={describedIconStyle}><i className='fa fa-fw fa-universal-access' /></div>
         </div>
       );
     }
