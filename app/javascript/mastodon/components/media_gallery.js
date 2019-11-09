@@ -11,6 +11,7 @@ import { decode } from 'blurhash';
 
 const messages = defineMessages({
   toggle_visible: { id: 'media_gallery.toggle_visible', defaultMessage: 'Toggle visibility' },
+  described: { id: 'media_gallery.described', defaultMessage: 'Media descriptions present' },
 });
 
 class Item extends React.PureComponent {
@@ -302,6 +303,21 @@ class MediaGallery extends React.PureComponent {
     const width = this.state.width || defaultWidth;
 
     let children, spoilerButton;
+    let described = [];
+    if (media.take(4).some((attachment, i) => attachment.get("description"))) {
+      const fontSize = 18;
+      const describedIconStyle = {
+        fontSize: `${fontSize}px`,
+        width: `${fontSize * 1.28571429}px`,
+        height: `${fontSize * 1.28571429}px`,
+        lineHeight: `${fontSize}px`,
+      };
+      described = (<div className='media-gallery__described' title={intl.formatMessage(messages.described)} aria-hidden='true'>
+          <div className='media-gallery__described-icon-wrapper' style={describedIconStyle}><i className='fa fa-fw fa-universal-access' /></div>
+        </div>
+      );
+    }
+
 
     const style = {};
 
@@ -345,6 +361,8 @@ class MediaGallery extends React.PureComponent {
         <div className={classNames('spoiler-button', { 'spoiler-button--minified': visible && !uncached, 'spoiler-button--click-thru': uncached })}>
           {spoilerButton}
         </div>
+
+        {described}
 
         {children}
       </div>
