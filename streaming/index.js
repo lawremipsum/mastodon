@@ -372,13 +372,15 @@ const startWorker = (workerId) => {
         return;
       }
 
+      if (event === 'notification' && !req.allowNotifications) {
+        return;
+      }
+
       // Only send local-only statuses to logged-in users
       if (payload.local_only && !req.accountId) {
         log.silly(req.requestId, `Message ${payload.id} filtered because it was local-only`);
-        return;
       }
       
-            if (event === 'notification' && !req.allowNotifications) {
         return;
       }
 

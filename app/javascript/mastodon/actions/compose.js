@@ -142,8 +142,8 @@ export function submitCompose(routerHistory) {
       sensitive: getState().getIn(['compose', 'sensitive']),
       spoiler_text: getState().getIn(['compose', 'spoiler']) ? getState().getIn(['compose', 'spoiler_text'], '') : '',
       visibility: getState().getIn(['compose', 'privacy']),
-      local_only: !getState().getIn(['compose', 'federation']),
       poll: getState().getIn(['compose', 'poll'], null),
+      local_only: !getState().getIn(['compose', 'federation']),
     }, {
       headers: {
         'Idempotency-Key': getState().getIn(['compose', 'idempotencyKey']),
