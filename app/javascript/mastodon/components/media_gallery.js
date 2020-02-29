@@ -325,17 +325,6 @@ class MediaGallery extends React.PureComponent {
       );
     }
 
-    let described = [];
-    if (media.take(4).some((attachment, i) => attachment.get("description"))) {
-      described = (
-        <div className='media-gallery__described' aria-hidden='true'>
-          <IconButton title={intl.formatMessage(messages.described)} icon='universal-access' overlay />
-        </div>
-      );
-    }
-
-    let children;
-
     const style = {};
 
     if (this.isFullSizeEligible() && (standalone || !cropImages)) {
