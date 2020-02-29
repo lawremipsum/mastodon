@@ -3515,15 +3515,6 @@ a.status-card.compact:hover {
   z-index: 100;
 }
 
-.media-gallery__described-icon-wrapper {
-  box-sizing: content-box;
-  background: rgba($base-overlay-background, 0.6);
-  color: rgba($primary-text-color, 0.7);
-  border-radius: 4px;
-  padding: 2px;
-  margin: auto;
-}
-
 .modal-container--preloader {
   background: lighten($ui-base-color, 8%);
 }

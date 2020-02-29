@@ -11,7 +11,7 @@ import { decode } from 'blurhash';
 
 const messages = defineMessages({
   toggle_visible: { id: 'media_gallery.toggle_visible', defaultMessage: 'Toggle visibility' },
-  described: { id: 'media_gallery.described', defaultMessage: 'Media descriptions present' },
+  described: { id: 'media_gallery.described', defaultMessage: 'Media description(s) present' },
 });
 
 class Item extends React.PureComponent {
@@ -318,6 +318,16 @@ class MediaGallery extends React.PureComponent {
       );
     }
 
+    let described = [];
+    if (media.take(4).some((attachment, i) => attachment.get("description"))) {
+      described = (
+        <div className='media-gallery__described' aria-hidden='true'>
+          <IconButton title={intl.formatMessage(messages.described)} icon='universal-access' overlay />
+        </div>
+      );
+    }
+
+    let children;
 
     const style = {};
 
