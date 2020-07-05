@@ -11,6 +11,7 @@ import UploadButtonContainer from '../containers/upload_button_container';
 import { defineMessages, injectIntl } from 'react-intl';
 import SpoilerButtonContainer from '../containers/spoiler_button_container';
 import PrivacyDropdownContainer from '../containers/privacy_dropdown_container';
+import FederationDropdownContainer from '../containers/federation_dropdown_container';
 import EmojiPickerDropdown from '../containers/emoji_picker_dropdown_container';
 import PollFormContainer from '../containers/poll_form_container';
 import UploadFormContainer from '../containers/upload_form_container';
@@ -26,7 +27,7 @@ const allowedAroundShortCode = '><\u0085\u0020\u00a0\u1680\u2000\u2001\u2002\u20
 const messages = defineMessages({
   placeholder: { id: 'compose_form.placeholder', defaultMessage: 'What is on your mind?' },
   spoiler_placeholder: { id: 'compose_form.spoiler_placeholder', defaultMessage: 'Write your warning here' },
-  publish: { id: 'compose_form.publish', defaultMessage: 'Toot' },
+  publish: { id: 'compose_form.publish', defaultMessage: 'Post' },
   publishLoud: { id: 'compose_form.publish_loud', defaultMessage: '{publish}!' },
 });
 
@@ -43,6 +44,7 @@ class ComposeForm extends ImmutablePureComponent {
     suggestions: ImmutablePropTypes.list,
     spoiler: PropTypes.bool,
     privacy: PropTypes.string,
+    federation: PropTypes.bool,
     spoilerText: PropTypes.string,
     focusDate: PropTypes.instanceOf(Date),
     caretPosition: PropTypes.number,
@@ -242,6 +244,7 @@ class ComposeForm extends ImmutablePureComponent {
             <PollButtonContainer />
             <PrivacyDropdownContainer />
             <SpoilerButtonContainer />
+            <FederationDropdownContainer />
           </div>
           <div className='character-counter__wrapper'><CharacterCounter max={500} text={text} /></div>
         </div>

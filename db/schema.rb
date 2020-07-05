@@ -436,6 +436,7 @@ ActiveRecord::Schema.define(version: 2020_05_10_110808) do
     t.string "title", default: "", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.boolean "is_exclusive", default: false
     t.index ["account_id"], name: "index_lists_on_account_id"
   end
 
@@ -733,6 +734,8 @@ ActiveRecord::Schema.define(version: 2020_05_10_110808) do
     t.bigint "in_reply_to_account_id"
     t.bigint "poll_id"
     t.datetime "deleted_at"
+    t.boolean "local_only"
+    t.string "activity_pub_type"
     t.index ["account_id", "id", "visibility", "updated_at"], name: "index_statuses_20190820", order: { id: :desc }, where: "(deleted_at IS NULL)"
     t.index ["id", "account_id"], name: "index_statuses_local_20190824", order: { id: :desc }, where: "((local OR (uri IS NULL)) AND (deleted_at IS NULL) AND (visibility = 0) AND (reblog_of_id IS NULL) AND ((NOT reply) OR (in_reply_to_account_id = account_id)))"
     t.index ["id", "account_id"], name: "index_statuses_public_20200119", order: { id: :desc }, where: "((deleted_at IS NULL) AND (visibility = 0) AND (reblog_of_id IS NULL) AND ((NOT reply) OR (in_reply_to_account_id = account_id)))"
